@@ -1,0 +1,65 @@
+<html>
+
+<head>
+    <script type="text/javascript" src="script.js">
+    </script>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+</head>
+
+<body onload=assignment6()>
+    <div id="tooltip"></div>
+    <div>
+        <br>
+        <br><br>
+        <h2 class="section">World Happiness and World Trade: A Closer Look</h2>
+        <div id="intro">
+            <p>In an increasingly interconnected world, it is more important than ever to be able to understand the
+                factors that contribute to global happiness.
+                Using data gathered by the Gallup World Poll, we can estimate the average quality life, and happiness,
+                across the world’s nations based on several
+                important factors: economic production, social support, life expectancy, freedom, absence of corruption,
+                and generosity.
+            </p>
+            <p>Furthermore, given the deep connections that exist between countries, it is important to consider the
+                impact of trade, and the contributions that
+                global connectedness has on happiness. As you explore this visualization, consider: Are countries with
+                higher happiness scores more likely to
+                engage in prosperous trade relationships? Do certain trade patterns contribute to increased happiness
+                levels? What relationship is there
+                between geography, trade patterns, and national happiness?
+            </p>
+            <p>In addition, feel free to hover over specific countries of interest to get a closer look at how each
+                factor influenced its overall happiness score. You can also use the dropdown below the map to display
+                the trade information for any country in the OECD database!
+            </p>
+        </div>
+
+
+
+        <br>
+        <div class="titles">
+            <h3>Happiness Scores by Country</h3>
+
+            <div id="q1_plot" class="center_plot">
+
+            </div>
+            <p>Select a country to see the trade volume between it and other selected nations.</p>
+            <select id="selectButton"></select>
+            <button type="button" id="reset">Reset</button>
+        </div>
+
+        <div style="text-align:center">
+            <p>Data<br><a
+                    href="https://www.kaggle.com/datasets/unsdsn/world-happiness?resource=download&select=2019.csv">World
+                    Happiness Report</a><br><a href="https://stats.oecd.org/Index.aspx?DataSetCode=QITS">OECD</a></p>
+        </div>
+    </div>
+
+
+
+
+</body>
+
+</html>

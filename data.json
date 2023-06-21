@@ -1,0 +1,5403 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "name": "Australia"
+        },
+        {
+            "id": 1,
+            "name": "Austria"
+        },
+        {
+            "id": 2,
+            "name": "Israel"
+        },
+        {
+            "id": 3,
+            "name": "Estonia"
+        },
+        {
+            "id": 4,
+            "name": "USA"
+        },
+        {
+            "id": 5,
+            "name": "England"
+        },
+        {
+            "id": 6,
+            "name": "Turkey"
+        },
+        {
+            "id": 7,
+            "name": "Switzerland"
+        },
+        {
+            "id": 8,
+            "name": "Sweden"
+        },
+        {
+            "id": 9,
+            "name": "Spain"
+        },
+        {
+            "id": 10,
+            "name": "Slovakia"
+        },
+        {
+            "id": 11,
+            "name": "Portugal"
+        },
+        {
+            "id": 12,
+            "name": "Poland"
+        },
+        {
+            "id": 13,
+            "name": "Norway"
+        },
+        {
+            "id": 14,
+            "name": "Netherlands"
+        },
+        {
+            "id": 15,
+            "name": "Slovenia"
+        },
+        {
+            "id": 16,
+            "name": "Luxembourg"
+        },
+        {
+            "id": 17,
+            "name": "Japan"
+        },
+        {
+            "id": 18,
+            "name": "Belgium"
+        },
+        {
+            "id": 19,
+            "name": "Canada"
+        },
+        {
+            "id": 20,
+            "name": "Czech Republic"
+        },
+        {
+            "id": 21,
+            "name": "Denmark"
+        },
+        {
+            "id": 22,
+            "name": "Finland"
+        },
+        {
+            "id": 23,
+            "name": "France"
+        },
+        {
+            "id": 24,
+            "name": "Germany"
+        },
+        {
+            "id": 25,
+            "name": "Greece"
+        },
+        {
+            "id": 26,
+            "name": "Hungary"
+        },
+        {
+            "id": 27,
+            "name": "Iceland"
+        },
+        {
+            "id": 28,
+            "name": "Ireland"
+        },
+        {
+            "id": 29,
+            "name": "Italy"
+        },
+        {
+            "id": 30,
+            "name": "Chile"
+        },
+        {
+            "id": 31,
+            "name": "New Zealand"
+        },
+        {
+            "id": 32,
+            "name": "Mexico"
+        }
+    ],
+    "links": [
+        {
+            "source": "Australia",
+            "target": "Austria",
+            "value": 13727145
+        },
+        {
+            "source": "Australia",
+            "target": "Belgium",
+            "value": 277156583
+        },
+        {
+            "source": "Australia",
+            "target": "Canada",
+            "value": 378309096
+        },
+        {
+            "source": "Australia",
+            "target": "Czech Republic",
+            "value": 12425070
+        },
+        {
+            "source": "Australia",
+            "target": "Denmark",
+            "value": 44953922
+        },
+        {
+            "source": "Australia",
+            "target": "Finland",
+            "value": 156415764
+        },
+        {
+            "source": "Australia",
+            "target": "France",
+            "value": 321555630
+        },
+        {
+            "source": "Australia",
+            "target": "Germany",
+            "value": 414057195
+        },
+        {
+            "source": "Australia",
+            "target": "Greece",
+            "value": 6462104
+        },
+        {
+            "source": "Australia",
+            "target": "Hungary",
+            "value": 8049948
+        },
+        {
+            "source": "Australia",
+            "target": "Iceland",
+            "value": 52757885
+        },
+        {
+            "source": "Australia",
+            "target": "Ireland",
+            "value": 14787383
+        },
+        {
+            "source": "Australia",
+            "target": "Italy",
+            "value": 211752138
+        },
+        {
+            "source": "Australia",
+            "target": "Japan",
+            "value": 14511330309
+        },
+        {
+            "source": "Australia",
+            "target": "Luxembourg",
+            "value": 226484
+        },
+        {
+            "source": "Australia",
+            "target": "Mexico",
+            "value": 118645566
+        },
+        {
+            "source": "Australia",
+            "target": "Netherlands",
+            "value": 910544054
+        },
+        {
+            "source": "Australia",
+            "target": "New Zealand",
+            "value": 2380357633
+        },
+        {
+            "source": "Australia",
+            "target": "Norway",
+            "value": 16226716
+        },
+        {
+            "source": "Australia",
+            "target": "Poland",
+            "value": 193740847
+        },
+        {
+            "source": "Australia",
+            "target": "Portugal",
+            "value": 6242092
+        },
+        {
+            "source": "Australia",
+            "target": "Slovakia",
+            "value": 742772
+        },
+        {
+            "source": "Australia",
+            "target": "Spain",
+            "value": 163016567
+        },
+        {
+            "source": "Australia",
+            "target": "Sweden",
+            "value": 171611006
+        },
+        {
+            "source": "Australia",
+            "target": "Switzerland",
+            "value": 653720366
+        },
+        {
+            "source": "Australia",
+            "target": "Turkey",
+            "value": 249268444
+        },
+        {
+            "source": "Australia",
+            "target": "England",
+            "value": 510176864
+        },
+        {
+            "source": "Australia",
+            "target": "USA",
+            "value": 3032933165
+        },
+        {
+            "source": "Australia",
+            "target": "Chile",
+            "value": 162994333
+        },
+        {
+            "source": "Australia",
+            "target": "Estonia",
+            "value": 938399
+        },
+        {
+            "source": "Australia",
+            "target": "Israel",
+            "value": 33100536
+        },
+        {
+            "source": "Australia",
+            "target": "Slovenia",
+            "value": 27477199
+        },
+        {
+            "source": "Austria",
+            "target": "Australia",
+            "value": 315710994
+        },
+        {
+            "source": "Austria",
+            "target": "Belgium",
+            "value": 753461275
+        },
+        {
+            "source": "Austria",
+            "target": "Canada",
+            "value": 454238752
+        },
+        {
+            "source": "Austria",
+            "target": "Czech Republic",
+            "value": 1651038206
+        },
+        {
+            "source": "Austria",
+            "target": "Denmark",
+            "value": 252297389
+        },
+        {
+            "source": "Austria",
+            "target": "Finland",
+            "value": 224339700
+        },
+        {
+            "source": "Austria",
+            "target": "France",
+            "value": 2160784779
+        },
+        {
+            "source": "Austria",
+            "target": "Germany",
+            "value": 14847654223
+        },
+        {
+            "source": "Austria",
+            "target": "Greece",
+            "value": 193088140
+        },
+        {
+            "source": "Austria",
+            "target": "Hungary",
+            "value": 1822320376
+        },
+        {
+            "source": "Austria",
+            "target": "Iceland",
+            "value": 15067541
+        },
+        {
+            "source": "Austria",
+            "target": "Ireland",
+            "value": 124417412
+        },
+        {
+            "source": "Austria",
+            "target": "Italy",
+            "value": 3181567233
+        },
+        {
+            "source": "Austria",
+            "target": "Japan",
+            "value": 434952666
+        },
+        {
+            "source": "Austria",
+            "target": "Luxembourg",
+            "value": 53472048
+        },
+        {
+            "source": "Austria",
+            "target": "Mexico",
+            "value": 446699312
+        },
+        {
+            "source": "Austria",
+            "target": "Netherlands",
+            "value": 914881442
+        },
+        {
+            "source": "Austria",
+            "target": "New Zealand",
+            "value": 59618187
+        },
+        {
+            "source": "Austria",
+            "target": "Norway",
+            "value": 150964880
+        },
+        {
+            "source": "Austria",
+            "target": "Poland",
+            "value": 1833400036
+        },
+        {
+            "source": "Austria",
+            "target": "Portugal",
+            "value": 136632688
+        },
+        {
+            "source": "Austria",
+            "target": "Slovakia",
+            "value": 1897103060
+        },
+        {
+            "source": "Austria",
+            "target": "Spain",
+            "value": 683479520
+        },
+        {
+            "source": "Austria",
+            "target": "Sweden",
+            "value": 473521629
+        },
+        {
+            "source": "Austria",
+            "target": "Switzerland",
+            "value": 2496565996
+        },
+        {
+            "source": "Austria",
+            "target": "Turkey",
+            "value": 440531678
+        },
+        {
+            "source": "Austria",
+            "target": "England",
+            "value": 1264914725
+        },
+        {
+            "source": "Austria",
+            "target": "USA",
+            "value": 3178634330
+        },
+        {
+            "source": "Austria",
+            "target": "Chile",
+            "value": 66166778
+        },
+        {
+            "source": "Austria",
+            "target": "Estonia",
+            "value": 53498371
+        },
+        {
+            "source": "Austria",
+            "target": "Israel",
+            "value": 131550883
+        },
+        {
+            "source": "Austria",
+            "target": "Slovenia",
+            "value": 1125323662
+        },
+        {
+            "source": "Belgium",
+            "target": "Australia",
+            "value": 486737644
+        },
+        {
+            "source": "Belgium",
+            "target": "Austria",
+            "value": 809342914
+        },
+        {
+            "source": "Belgium",
+            "target": "Canada",
+            "value": 652030449
+        },
+        {
+            "source": "Belgium",
+            "target": "Czech Republic",
+            "value": 924714733
+        },
+        {
+            "source": "Belgium",
+            "target": "Denmark",
+            "value": 704261185
+        },
+        {
+            "source": "Belgium",
+            "target": "Finland",
+            "value": 426964230
+        },
+        {
+            "source": "Belgium",
+            "target": "France",
+            "value": 13867089379
+        },
+        {
+            "source": "Belgium",
+            "target": "Germany",
+            "value": 27438090756
+        },
+        {
+            "source": "Belgium",
+            "target": "Greece",
+            "value": 410878499
+        },
+        {
+            "source": "Belgium",
+            "target": "Hungary",
+            "value": 550488324
+        },
+        {
+            "source": "Belgium",
+            "target": "Iceland",
+            "value": 32377897
+        },
+        {
+            "source": "Belgium",
+            "target": "Ireland",
+            "value": 631764147
+        },
+        {
+            "source": "Belgium",
+            "target": "Italy",
+            "value": 3977281649
+        },
+        {
+            "source": "Belgium",
+            "target": "Japan",
+            "value": 1963327349
+        },
+        {
+            "source": "Belgium",
+            "target": "Luxembourg",
+            "value": 1854394207
+        },
+        {
+            "source": "Belgium",
+            "target": "Mexico",
+            "value": 576866414
+        },
+        {
+            "source": "Belgium",
+            "target": "Netherlands",
+            "value": 18491993474
+        },
+        {
+            "source": "Belgium",
+            "target": "New Zealand",
+            "value": 61613272
+        },
+        {
+            "source": "Belgium",
+            "target": "Norway",
+            "value": 611383336
+        },
+        {
+            "source": "Belgium",
+            "target": "Poland",
+            "value": 2339347105
+        },
+        {
+            "source": "Belgium",
+            "target": "Portugal",
+            "value": 575225012
+        },
+        {
+            "source": "Belgium",
+            "target": "Slovakia",
+            "value": 306296268
+        },
+        {
+            "source": "Belgium",
+            "target": "Spain",
+            "value": 2782757259
+        },
+        {
+            "source": "Belgium",
+            "target": "Sweden",
+            "value": 1445526802
+        },
+        {
+            "source": "Belgium",
+            "target": "Switzerland",
+            "value": 1136185520
+        },
+        {
+            "source": "Belgium",
+            "target": "Turkey",
+            "value": 1227077592
+        },
+        {
+            "source": "Belgium",
+            "target": "England",
+            "value": 5827456909
+        },
+        {
+            "source": "Belgium",
+            "target": "USA",
+            "value": 7509357362
+        },
+        {
+            "source": "Belgium",
+            "target": "Chile",
+            "value": 147443156
+        },
+        {
+            "source": "Belgium",
+            "target": "Estonia",
+            "value": 91766193
+        },
+        {
+            "source": "Belgium",
+            "target": "Israel",
+            "value": 587657144
+        },
+        {
+            "source": "Belgium",
+            "target": "Slovenia",
+            "value": 168148394
+        },
+        {
+            "source": "Canada",
+            "target": "Australia",
+            "value": 654895025
+        },
+        {
+            "source": "Canada",
+            "target": "Austria",
+            "value": 100152070
+        },
+        {
+            "source": "Canada",
+            "target": "Belgium",
+            "value": 981928340
+        },
+        {
+            "source": "Canada",
+            "target": "Czech Republic",
+            "value": 56489467
+        },
+        {
+            "source": "Canada",
+            "target": "Denmark",
+            "value": 49457966
+        },
+        {
+            "source": "Canada",
+            "target": "Finland",
+            "value": 137575148
+        },
+        {
+            "source": "Canada",
+            "target": "France",
+            "value": 779338952
+        },
+        {
+            "source": "Canada",
+            "target": "Germany",
+            "value": 1556242292
+        },
+        {
+            "source": "Canada",
+            "target": "Greece",
+            "value": 21038685
+        },
+        {
+            "source": "Canada",
+            "target": "Hungary",
+            "value": 20196552
+        },
+        {
+            "source": "Canada",
+            "target": "Iceland",
+            "value": 18703044
+        },
+        {
+            "source": "Canada",
+            "target": "Ireland",
+            "value": 210113327
+        },
+        {
+            "source": "Canada",
+            "target": "Italy",
+            "value": 472589027
+        },
+        {
+            "source": "Canada",
+            "target": "Japan",
+            "value": 3511744679
+        },
+        {
+            "source": "Canada",
+            "target": "Luxembourg",
+            "value": 8801354
+        },
+        {
+            "source": "Canada",
+            "target": "Mexico",
+            "value": 1614773783
+        },
+        {
+            "source": "Canada",
+            "target": "Netherlands",
+            "value": 1109234438
+        },
+        {
+            "source": "Canada",
+            "target": "New Zealand",
+            "value": 133851051
+        },
+        {
+            "source": "Canada",
+            "target": "Norway",
+            "value": 633850815
+        },
+        {
+            "source": "Canada",
+            "target": "Poland",
+            "value": 194508582
+        },
+        {
+            "source": "Canada",
+            "target": "Portugal",
+            "value": 108009661
+        },
+        {
+            "source": "Canada",
+            "target": "Slovakia",
+            "value": 9520441
+        },
+        {
+            "source": "Canada",
+            "target": "Spain",
+            "value": 559231698
+        },
+        {
+            "source": "Canada",
+            "target": "Sweden",
+            "value": 160334996
+        },
+        {
+            "source": "Canada",
+            "target": "Switzerland",
+            "value": 854426058
+        },
+        {
+            "source": "Canada",
+            "target": "Turkey",
+            "value": 187694826
+        },
+        {
+            "source": "Canada",
+            "target": "England",
+            "value": 3485397542
+        },
+        {
+            "source": "Canada",
+            "target": "USA",
+            "value": 117940935472
+        },
+        {
+            "source": "Canada",
+            "target": "Chile",
+            "value": 233301417
+        },
+        {
+            "source": "Canada",
+            "target": "Estonia",
+            "value": 6801094
+        },
+        {
+            "source": "Canada",
+            "target": "Israel",
+            "value": 96515656
+        },
+        {
+            "source": "Canada",
+            "target": "Slovenia",
+            "value": 20721274
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Australia",
+            "value": 162075027
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Austria",
+            "value": 2691832786
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Belgium",
+            "value": 1243909547
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Canada",
+            "value": 102618230
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Denmark",
+            "value": 561955078
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Finland",
+            "value": 284949433
+        },
+        {
+            "source": "Czech Republic",
+            "target": "France",
+            "value": 2578947353
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Germany",
+            "value": 18869928615
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Greece",
+            "value": 151956212
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Hungary",
+            "value": 1973247706
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Iceland",
+            "value": 20833091
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Ireland",
+            "value": 330482623
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Italy",
+            "value": 2228402482
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Japan",
+            "value": 276290097
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Luxembourg",
+            "value": 99253780
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Mexico",
+            "value": 219254595
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Netherlands",
+            "value": 2083810796
+        },
+        {
+            "source": "Czech Republic",
+            "target": "New Zealand",
+            "value": 42776755
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Norway",
+            "value": 307220941
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Poland",
+            "value": 4090782709
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Portugal",
+            "value": 234146428
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Slovakia",
+            "value": 4650895690
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Spain",
+            "value": 1338591008
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Sweden",
+            "value": 908207808
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Switzerland",
+            "value": 847788928
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Turkey",
+            "value": 691773667
+        },
+        {
+            "source": "Czech Republic",
+            "target": "England",
+            "value": 1997142406
+        },
+        {
+            "source": "Czech Republic",
+            "target": "USA",
+            "value": 1481074650
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Chile",
+            "value": 24675045
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Estonia",
+            "value": 95750334
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Israel",
+            "value": 303130673
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Slovenia",
+            "value": 262834613
+        },
+        {
+            "source": "Denmark",
+            "target": "Australia",
+            "value": 256012646
+        },
+        {
+            "source": "Denmark",
+            "target": "Austria",
+            "value": 239582203
+        },
+        {
+            "source": "Denmark",
+            "target": "Belgium",
+            "value": 451353916
+        },
+        {
+            "source": "Denmark",
+            "target": "Canada",
+            "value": 161840244
+        },
+        {
+            "source": "Denmark",
+            "target": "Czech Republic",
+            "value": 173426196
+        },
+        {
+            "source": "Denmark",
+            "target": "Finland",
+            "value": 517095898
+        },
+        {
+            "source": "Denmark",
+            "target": "France",
+            "value": 1019423561
+        },
+        {
+            "source": "Denmark",
+            "target": "Germany",
+            "value": 4954072644
+        },
+        {
+            "source": "Denmark",
+            "target": "Greece",
+            "value": 138934619
+        },
+        {
+            "source": "Denmark",
+            "target": "Hungary",
+            "value": 152942781
+        },
+        {
+            "source": "Denmark",
+            "target": "Iceland",
+            "value": 170705980
+        },
+        {
+            "source": "Denmark",
+            "target": "Ireland",
+            "value": 172757686
+        },
+        {
+            "source": "Denmark",
+            "target": "Italy",
+            "value": 615391178
+        },
+        {
+            "source": "Denmark",
+            "target": "Japan",
+            "value": 348366973
+        },
+        {
+            "source": "Denmark",
+            "target": "Luxembourg",
+            "value": 27452323
+        },
+        {
+            "source": "Denmark",
+            "target": "Mexico",
+            "value": 117962797
+        },
+        {
+            "source": "Denmark",
+            "target": "Netherlands",
+            "value": 1700242922
+        },
+        {
+            "source": "Denmark",
+            "target": "New Zealand",
+            "value": 38479281
+        },
+        {
+            "source": "Denmark",
+            "target": "Norway",
+            "value": 1844073742
+        },
+        {
+            "source": "Denmark",
+            "target": "Poland",
+            "value": 1134579675
+        },
+        {
+            "source": "Denmark",
+            "target": "Portugal",
+            "value": 89162974
+        },
+        {
+            "source": "Denmark",
+            "target": "Slovakia",
+            "value": 79634621
+        },
+        {
+            "source": "Denmark",
+            "target": "Spain",
+            "value": 659246526
+        },
+        {
+            "source": "Denmark",
+            "target": "Sweden",
+            "value": 2661369139
+        },
+        {
+            "source": "Denmark",
+            "target": "Switzerland",
+            "value": 254758590
+        },
+        {
+            "source": "Denmark",
+            "target": "Turkey",
+            "value": 292203468
+        },
+        {
+            "source": "Denmark",
+            "target": "England",
+            "value": 1285912884
+        },
+        {
+            "source": "Denmark",
+            "target": "USA",
+            "value": 1581842116
+        },
+        {
+            "source": "Denmark",
+            "target": "Chile",
+            "value": 34559685
+        },
+        {
+            "source": "Denmark",
+            "target": "Estonia",
+            "value": 86114206
+        },
+        {
+            "source": "Denmark",
+            "target": "Israel",
+            "value": 68933679
+        },
+        {
+            "source": "Denmark",
+            "target": "Slovenia",
+            "value": 33698832
+        },
+        {
+            "source": "Finland",
+            "target": "Australia",
+            "value": 214897210
+        },
+        {
+            "source": "Finland",
+            "target": "Austria",
+            "value": 146741752
+        },
+        {
+            "source": "Finland",
+            "target": "Belgium",
+            "value": 656624820
+        },
+        {
+            "source": "Finland",
+            "target": "Canada",
+            "value": 321791025
+        },
+        {
+            "source": "Finland",
+            "target": "Czech Republic",
+            "value": 130830476
+        },
+        {
+            "source": "Finland",
+            "target": "Denmark",
+            "value": 360786829
+        },
+        {
+            "source": "Finland",
+            "target": "France",
+            "value": 605142583
+        },
+        {
+            "source": "Finland",
+            "target": "Germany",
+            "value": 2399493516
+        },
+        {
+            "source": "Finland",
+            "target": "Greece",
+            "value": 48352170
+        },
+        {
+            "source": "Finland",
+            "target": "Hungary",
+            "value": 72004149
+        },
+        {
+            "source": "Finland",
+            "target": "Iceland",
+            "value": 18242392
+        },
+        {
+            "source": "Finland",
+            "target": "Ireland",
+            "value": 59560493
+        },
+        {
+            "source": "Finland",
+            "target": "Italy",
+            "value": 534176944
+        },
+        {
+            "source": "Finland",
+            "target": "Japan",
+            "value": 315863521
+        },
+        {
+            "source": "Finland",
+            "target": "Luxembourg",
+            "value": 11618267
+        },
+        {
+            "source": "Finland",
+            "target": "Mexico",
+            "value": 196191233
+        },
+        {
+            "source": "Finland",
+            "target": "Netherlands",
+            "value": 1525835914
+        },
+        {
+            "source": "Finland",
+            "target": "New Zealand",
+            "value": 24030314
+        },
+        {
+            "source": "Finland",
+            "target": "Norway",
+            "value": 593098683
+        },
+        {
+            "source": "Finland",
+            "target": "Poland",
+            "value": 663777556
+        },
+        {
+            "source": "Finland",
+            "target": "Portugal",
+            "value": 68462509
+        },
+        {
+            "source": "Finland",
+            "target": "Slovakia",
+            "value": 52558812
+        },
+        {
+            "source": "Finland",
+            "target": "Spain",
+            "value": 344997237
+        },
+        {
+            "source": "Finland",
+            "target": "Sweden",
+            "value": 2122812677
+        },
+        {
+            "source": "Finland",
+            "target": "Switzerland",
+            "value": 331316488
+        },
+        {
+            "source": "Finland",
+            "target": "Turkey",
+            "value": 311945529
+        },
+        {
+            "source": "Finland",
+            "target": "England",
+            "value": 781507103
+        },
+        {
+            "source": "Finland",
+            "target": "USA",
+            "value": 1898790498
+        },
+        {
+            "source": "Finland",
+            "target": "Chile",
+            "value": 71100518
+        },
+        {
+            "source": "Finland",
+            "target": "Estonia",
+            "value": 881833485
+        },
+        {
+            "source": "Finland",
+            "target": "Israel",
+            "value": 52406984
+        },
+        {
+            "source": "Finland",
+            "target": "Slovenia",
+            "value": 19879800
+        },
+        {
+            "source": "France",
+            "target": "Australia",
+            "value": 876875941
+        },
+        {
+            "source": "France",
+            "target": "Austria",
+            "value": 1379156483
+        },
+        {
+            "source": "France",
+            "target": "Belgium",
+            "value": 11399081927
+        },
+        {
+            "source": "France",
+            "target": "Canada",
+            "value": 1100799709
+        },
+        {
+            "source": "France",
+            "target": "Czech Republic",
+            "value": 1455700483
+        },
+        {
+            "source": "France",
+            "target": "Denmark",
+            "value": 955128095
+        },
+        {
+            "source": "France",
+            "target": "Finland",
+            "value": 454423340
+        },
+        {
+            "source": "France",
+            "target": "Germany",
+            "value": 20189805689
+        },
+        {
+            "source": "France",
+            "target": "Greece",
+            "value": 900802435
+        },
+        {
+            "source": "France",
+            "target": "Hungary",
+            "value": 1056702504
+        },
+        {
+            "source": "France",
+            "target": "Iceland",
+            "value": 35347483
+        },
+        {
+            "source": "France",
+            "target": "Ireland",
+            "value": 1839359592
+        },
+        {
+            "source": "France",
+            "target": "Italy",
+            "value": 13311932972
+        },
+        {
+            "source": "France",
+            "target": "Japan",
+            "value": 1483583294
+        },
+        {
+            "source": "France",
+            "target": "Luxembourg",
+            "value": 775503364
+        },
+        {
+            "source": "France",
+            "target": "Mexico",
+            "value": 788665915
+        },
+        {
+            "source": "France",
+            "target": "Netherlands",
+            "value": 5772353525
+        },
+        {
+            "source": "France",
+            "target": "New Zealand",
+            "value": 143852766
+        },
+        {
+            "source": "France",
+            "target": "Norway",
+            "value": 446921416
+        },
+        {
+            "source": "France",
+            "target": "Poland",
+            "value": 3448760153
+        },
+        {
+            "source": "France",
+            "target": "Portugal",
+            "value": 1636055588
+        },
+        {
+            "source": "France",
+            "target": "Slovakia",
+            "value": 807460524
+        },
+        {
+            "source": "France",
+            "target": "Spain",
+            "value": 10473187940
+        },
+        {
+            "source": "France",
+            "target": "Sweden",
+            "value": 1472643046
+        },
+        {
+            "source": "France",
+            "target": "Switzerland",
+            "value": 4722365326
+        },
+        {
+            "source": "France",
+            "target": "Turkey",
+            "value": 2669024306
+        },
+        {
+            "source": "France",
+            "target": "England",
+            "value": 8146352277
+        },
+        {
+            "source": "France",
+            "target": "USA",
+            "value": 11313826241
+        },
+        {
+            "source": "France",
+            "target": "Chile",
+            "value": 290393220
+        },
+        {
+            "source": "France",
+            "target": "Estonia",
+            "value": 121633242
+        },
+        {
+            "source": "France",
+            "target": "Israel",
+            "value": 500901352
+        },
+        {
+            "source": "France",
+            "target": "Slovenia",
+            "value": 346782754
+        },
+        {
+            "source": "Germany",
+            "target": "Australia",
+            "value": 2949523103
+        },
+        {
+            "source": "Germany",
+            "target": "Austria",
+            "value": 21575861244
+        },
+        {
+            "source": "Germany",
+            "target": "Belgium",
+            "value": 16715082989
+        },
+        {
+            "source": "Germany",
+            "target": "Canada",
+            "value": 3524730899
+        },
+        {
+            "source": "Germany",
+            "target": "Czech Republic",
+            "value": 13136053543
+        },
+        {
+            "source": "Germany",
+            "target": "Denmark",
+            "value": 5782517180
+        },
+        {
+            "source": "Germany",
+            "target": "Finland",
+            "value": 2997227884
+        },
+        {
+            "source": "Germany",
+            "target": "France",
+            "value": 28921890855
+        },
+        {
+            "source": "Germany",
+            "target": "Greece",
+            "value": 2313298179
+        },
+        {
+            "source": "Germany",
+            "target": "Hungary",
+            "value": 8515826273
+        },
+        {
+            "source": "Germany",
+            "target": "Iceland",
+            "value": 171975879
+        },
+        {
+            "source": "Germany",
+            "target": "Ireland",
+            "value": 3027815544
+        },
+        {
+            "source": "Germany",
+            "target": "Italy",
+            "value": 20693395165
+        },
+        {
+            "source": "Germany",
+            "target": "Japan",
+            "value": 5152971766
+        },
+        {
+            "source": "Germany",
+            "target": "Luxembourg",
+            "value": 1930794773
+        },
+        {
+            "source": "Germany",
+            "target": "Mexico",
+            "value": 4355671030
+        },
+        {
+            "source": "Germany",
+            "target": "Netherlands",
+            "value": 26921000537
+        },
+        {
+            "source": "Germany",
+            "target": "New Zealand",
+            "value": 442878114
+        },
+        {
+            "source": "Germany",
+            "target": "Norway",
+            "value": 2890520272
+        },
+        {
+            "source": "Germany",
+            "target": "Poland",
+            "value": 23161775443
+        },
+        {
+            "source": "Germany",
+            "target": "Portugal",
+            "value": 2740558215
+        },
+        {
+            "source": "Germany",
+            "target": "Slovakia",
+            "value": 4220442220
+        },
+        {
+            "source": "Germany",
+            "target": "Spain",
+            "value": 11949631516
+        },
+        {
+            "source": "Germany",
+            "target": "Sweden",
+            "value": 6992113424
+        },
+        {
+            "source": "Germany",
+            "target": "Switzerland",
+            "value": 18717108034
+        },
+        {
+            "source": "Germany",
+            "target": "Turkey",
+            "value": 7050685169
+        },
+        {
+            "source": "Germany",
+            "target": "England",
+            "value": 18473999938
+        },
+        {
+            "source": "Germany",
+            "target": "USA",
+            "value": 41650998958
+        },
+        {
+            "source": "Germany",
+            "target": "Chile",
+            "value": 795496250
+        },
+        {
+            "source": "Germany",
+            "target": "Estonia",
+            "value": 680016162
+        },
+        {
+            "source": "Germany",
+            "target": "Israel",
+            "value": 1467323299
+        },
+        {
+            "source": "Germany",
+            "target": "Slovenia",
+            "value": 1702752266
+        },
+        {
+            "source": "Greece",
+            "target": "Australia",
+            "value": 62359635
+        },
+        {
+            "source": "Greece",
+            "target": "Austria",
+            "value": 118369352
+        },
+        {
+            "source": "Greece",
+            "target": "Belgium",
+            "value": 184091083
+        },
+        {
+            "source": "Greece",
+            "target": "Canada",
+            "value": 80176102
+        },
+        {
+            "source": "Greece",
+            "target": "Czech Republic",
+            "value": 115608373
+        },
+        {
+            "source": "Greece",
+            "target": "Denmark",
+            "value": 67833978
+        },
+        {
+            "source": "Greece",
+            "target": "Finland",
+            "value": 36006507
+        },
+        {
+            "source": "Greece",
+            "target": "France",
+            "value": 347259078
+        },
+        {
+            "source": "Greece",
+            "target": "Germany",
+            "value": 899678009
+        },
+        {
+            "source": "Greece",
+            "target": "Hungary",
+            "value": 148857571
+        },
+        {
+            "source": "Greece",
+            "target": "Iceland",
+            "value": 1671239
+        },
+        {
+            "source": "Greece",
+            "target": "Ireland",
+            "value": 86261335
+        },
+        {
+            "source": "Greece",
+            "target": "Italy",
+            "value": 1480787477
+        },
+        {
+            "source": "Greece",
+            "target": "Japan",
+            "value": 80210803
+        },
+        {
+            "source": "Greece",
+            "target": "Luxembourg",
+            "value": 127557564
+        },
+        {
+            "source": "Greece",
+            "target": "Mexico",
+            "value": 33541756
+        },
+        {
+            "source": "Greece",
+            "target": "Netherlands",
+            "value": 370775491
+        },
+        {
+            "source": "Greece",
+            "target": "New Zealand",
+            "value": 6763010
+        },
+        {
+            "source": "Greece",
+            "target": "Norway",
+            "value": 26763383
+        },
+        {
+            "source": "Greece",
+            "target": "Poland",
+            "value": 222627279
+        },
+        {
+            "source": "Greece",
+            "target": "Portugal",
+            "value": 85716413
+        },
+        {
+            "source": "Greece",
+            "target": "Slovakia",
+            "value": 55603141
+        },
+        {
+            "source": "Greece",
+            "target": "Spain",
+            "value": 501506842
+        },
+        {
+            "source": "Greece",
+            "target": "Sweden",
+            "value": 89153444
+        },
+        {
+            "source": "Greece",
+            "target": "Switzerland",
+            "value": 66046478
+        },
+        {
+            "source": "Greece",
+            "target": "Turkey",
+            "value": 609492806
+        },
+        {
+            "source": "Greece",
+            "target": "England",
+            "value": 668427892
+        },
+        {
+            "source": "Greece",
+            "target": "USA",
+            "value": 547354736
+        },
+        {
+            "source": "Greece",
+            "target": "Chile",
+            "value": 8911697
+        },
+        {
+            "source": "Greece",
+            "target": "Estonia",
+            "value": 7860305
+        },
+        {
+            "source": "Greece",
+            "target": "Israel",
+            "value": 206016983
+        },
+        {
+            "source": "Greece",
+            "target": "Slovenia",
+            "value": 194395574
+        },
+        {
+            "source": "Hungary",
+            "target": "Australia",
+            "value": 183319157
+        },
+        {
+            "source": "Hungary",
+            "target": "Austria",
+            "value": 1669414702
+        },
+        {
+            "source": "Hungary",
+            "target": "Belgium",
+            "value": 815345345
+        },
+        {
+            "source": "Hungary",
+            "target": "Canada",
+            "value": 91242988
+        },
+        {
+            "source": "Hungary",
+            "target": "Czech Republic",
+            "value": 1464556834
+        },
+        {
+            "source": "Hungary",
+            "target": "Denmark",
+            "value": 209523510
+        },
+        {
+            "source": "Hungary",
+            "target": "Finland",
+            "value": 109660010
+        },
+        {
+            "source": "Hungary",
+            "target": "France",
+            "value": 1483979745
+        },
+        {
+            "source": "Hungary",
+            "target": "Germany",
+            "value": 8986058507
+        },
+        {
+            "source": "Hungary",
+            "target": "Greece",
+            "value": 176669811
+        },
+        {
+            "source": "Hungary",
+            "target": "Iceland",
+            "value": 6297660
+        },
+        {
+            "source": "Hungary",
+            "target": "Ireland",
+            "value": 180796873
+        },
+        {
+            "source": "Hungary",
+            "target": "Italy",
+            "value": 1914155246
+        },
+        {
+            "source": "Hungary",
+            "target": "Japan",
+            "value": 277372599
+        },
+        {
+            "source": "Hungary",
+            "target": "Luxembourg",
+            "value": 318791544
+        },
+        {
+            "source": "Hungary",
+            "target": "Mexico",
+            "value": 299559986
+        },
+        {
+            "source": "Hungary",
+            "target": "Netherlands",
+            "value": 1257590985
+        },
+        {
+            "source": "Hungary",
+            "target": "New Zealand",
+            "value": 26546209
+        },
+        {
+            "source": "Hungary",
+            "target": "Norway",
+            "value": 77976435
+        },
+        {
+            "source": "Hungary",
+            "target": "Poland",
+            "value": 1493788810
+        },
+        {
+            "source": "Hungary",
+            "target": "Portugal",
+            "value": 168558291
+        },
+        {
+            "source": "Hungary",
+            "target": "Slovakia",
+            "value": 1747658933
+        },
+        {
+            "source": "Hungary",
+            "target": "Spain",
+            "value": 943290316
+        },
+        {
+            "source": "Hungary",
+            "target": "Sweden",
+            "value": 391303575
+        },
+        {
+            "source": "Hungary",
+            "target": "Switzerland",
+            "value": 372516162
+        },
+        {
+            "source": "Hungary",
+            "target": "Turkey",
+            "value": 451459970
+        },
+        {
+            "source": "Hungary",
+            "target": "England",
+            "value": 1211212749
+        },
+        {
+            "source": "Hungary",
+            "target": "USA",
+            "value": 1372808173
+        },
+        {
+            "source": "Hungary",
+            "target": "Chile",
+            "value": 16020407
+        },
+        {
+            "source": "Hungary",
+            "target": "Estonia",
+            "value": 31441174
+        },
+        {
+            "source": "Hungary",
+            "target": "Israel",
+            "value": 132074453
+        },
+        {
+            "source": "Hungary",
+            "target": "Slovenia",
+            "value": 592401695
+        },
+        {
+            "source": "Iceland",
+            "target": "Australia",
+            "value": 10173259
+        },
+        {
+            "source": "Iceland",
+            "target": "Austria",
+            "value": 559380
+        },
+        {
+            "source": "Iceland",
+            "target": "Belgium",
+            "value": 22497955
+        },
+        {
+            "source": "Iceland",
+            "target": "Canada",
+            "value": 40129840
+        },
+        {
+            "source": "Iceland",
+            "target": "Czech Republic",
+            "value": 3154474
+        },
+        {
+            "source": "Iceland",
+            "target": "Denmark",
+            "value": 50351903
+        },
+        {
+            "source": "Iceland",
+            "target": "Finland",
+            "value": 7246577
+        },
+        {
+            "source": "Iceland",
+            "target": "France",
+            "value": 101022084
+        },
+        {
+            "source": "Iceland",
+            "target": "Germany",
+            "value": 107057268
+        },
+        {
+            "source": "Iceland",
+            "target": "Greece",
+            "value": 4432824
+        },
+        {
+            "source": "Iceland",
+            "target": "Hungary",
+            "value": 11910411
+        },
+        {
+            "source": "Iceland",
+            "target": "Ireland",
+            "value": 4267753
+        },
+        {
+            "source": "Iceland",
+            "target": "Italy",
+            "value": 13749238
+        },
+        {
+            "source": "Iceland",
+            "target": "Japan",
+            "value": 37803991
+        },
+        {
+            "source": "Iceland",
+            "target": "Luxembourg",
+            "value": 113509
+        },
+        {
+            "source": "Iceland",
+            "target": "Mexico",
+            "value": 1070105
+        },
+        {
+            "source": "Iceland",
+            "target": "Netherlands",
+            "value": 754350771
+        },
+        {
+            "source": "Iceland",
+            "target": "New Zealand",
+            "value": 339266
+        },
+        {
+            "source": "Iceland",
+            "target": "Norway",
+            "value": 103930164
+        },
+        {
+            "source": "Iceland",
+            "target": "Poland",
+            "value": 33034203
+        },
+        {
+            "source": "Iceland",
+            "target": "Portugal",
+            "value": 19008370
+        },
+        {
+            "source": "Iceland",
+            "target": "Slovakia",
+            "value": 2822403
+        },
+        {
+            "source": "Iceland",
+            "target": "Spain",
+            "value": 40568232
+        },
+        {
+            "source": "Iceland",
+            "target": "Sweden",
+            "value": 15537615
+        },
+        {
+            "source": "Iceland",
+            "target": "Switzerland",
+            "value": 9731434
+        },
+        {
+            "source": "Iceland",
+            "target": "Turkey",
+            "value": 6826734
+        },
+        {
+            "source": "Iceland",
+            "target": "England",
+            "value": 150525562
+        },
+        {
+            "source": "Iceland",
+            "target": "USA",
+            "value": 149705739
+        },
+        {
+            "source": "Iceland",
+            "target": "Chile",
+            "value": 3938427
+        },
+        {
+            "source": "Iceland",
+            "target": "Estonia",
+            "value": 551104
+        },
+        {
+            "source": "Iceland",
+            "target": "Israel",
+            "value": 816717
+        },
+        {
+            "source": "Iceland",
+            "target": "Slovenia",
+            "value": 57877
+        },
+        {
+            "source": "Ireland",
+            "target": "Australia",
+            "value": 511380581
+        },
+        {
+            "source": "Ireland",
+            "target": "Austria",
+            "value": 121846035
+        },
+        {
+            "source": "Ireland",
+            "target": "Belgium",
+            "value": 5663095202
+        },
+        {
+            "source": "Ireland",
+            "target": "Canada",
+            "value": 910101580
+        },
+        {
+            "source": "Ireland",
+            "target": "Czech Republic",
+            "value": 380870482
+        },
+        {
+            "source": "Ireland",
+            "target": "Denmark",
+            "value": 155276551
+        },
+        {
+            "source": "Ireland",
+            "target": "Finland",
+            "value": 93225521
+        },
+        {
+            "source": "Ireland",
+            "target": "France",
+            "value": 1511884468
+        },
+        {
+            "source": "Ireland",
+            "target": "Germany",
+            "value": 7096686344
+        },
+        {
+            "source": "Ireland",
+            "target": "Greece",
+            "value": 101145982
+        },
+        {
+            "source": "Ireland",
+            "target": "Hungary",
+            "value": 160983259
+        },
+        {
+            "source": "Ireland",
+            "target": "Iceland",
+            "value": 4762677
+        },
+        {
+            "source": "Ireland",
+            "target": "Italy",
+            "value": 1369890543
+        },
+        {
+            "source": "Ireland",
+            "target": "Japan",
+            "value": 908952982
+        },
+        {
+            "source": "Ireland",
+            "target": "Luxembourg",
+            "value": 23267006
+        },
+        {
+            "source": "Ireland",
+            "target": "Mexico",
+            "value": 610730128
+        },
+        {
+            "source": "Ireland",
+            "target": "Netherlands",
+            "value": 4059091487
+        },
+        {
+            "source": "Ireland",
+            "target": "New Zealand",
+            "value": 65481969
+        },
+        {
+            "source": "Ireland",
+            "target": "Norway",
+            "value": 89770319
+        },
+        {
+            "source": "Ireland",
+            "target": "Poland",
+            "value": 350472100
+        },
+        {
+            "source": "Ireland",
+            "target": "Portugal",
+            "value": 133793972
+        },
+        {
+            "source": "Ireland",
+            "target": "Slovakia",
+            "value": 26309795
+        },
+        {
+            "source": "Ireland",
+            "target": "Spain",
+            "value": 773646631
+        },
+        {
+            "source": "Ireland",
+            "target": "Sweden",
+            "value": 252166904
+        },
+        {
+            "source": "Ireland",
+            "target": "Switzerland",
+            "value": 855686651
+        },
+        {
+            "source": "Ireland",
+            "target": "Turkey",
+            "value": 209191165
+        },
+        {
+            "source": "Ireland",
+            "target": "England",
+            "value": 5394583930
+        },
+        {
+            "source": "Ireland",
+            "target": "USA",
+            "value": 14942181599
+        },
+        {
+            "source": "Ireland",
+            "target": "Chile",
+            "value": 29902921
+        },
+        {
+            "source": "Ireland",
+            "target": "Estonia",
+            "value": 6220417
+        },
+        {
+            "source": "Ireland",
+            "target": "Israel",
+            "value": 256914043
+        },
+        {
+            "source": "Ireland",
+            "target": "Slovenia",
+            "value": 52597934
+        },
+        {
+            "source": "Italy",
+            "target": "Australia",
+            "value": 1447733610
+        },
+        {
+            "source": "Italy",
+            "target": "Austria",
+            "value": 3501080831
+        },
+        {
+            "source": "Italy",
+            "target": "Belgium",
+            "value": 6426217417
+        },
+        {
+            "source": "Italy",
+            "target": "Canada",
+            "value": 1788375637
+        },
+        {
+            "source": "Italy",
+            "target": "Czech Republic",
+            "value": 2058704475
+        },
+        {
+            "source": "Italy",
+            "target": "Denmark",
+            "value": 926748326
+        },
+        {
+            "source": "Italy",
+            "target": "Finland",
+            "value": 555710836
+        },
+        {
+            "source": "Italy",
+            "target": "France",
+            "value": 15059001001
+        },
+        {
+            "source": "Italy",
+            "target": "Germany",
+            "value": 18746777227
+        },
+        {
+            "source": "Italy",
+            "target": "Greece",
+            "value": 1745995416
+        },
+        {
+            "source": "Italy",
+            "target": "Hungary",
+            "value": 1536112424
+        },
+        {
+            "source": "Italy",
+            "target": "Iceland",
+            "value": 36929447
+        },
+        {
+            "source": "Italy",
+            "target": "Ireland",
+            "value": 687972368
+        },
+        {
+            "source": "Italy",
+            "target": "Japan",
+            "value": 1849665328
+        },
+        {
+            "source": "Italy",
+            "target": "Luxembourg",
+            "value": 186007076
+        },
+        {
+            "source": "Italy",
+            "target": "Mexico",
+            "value": 1464178853
+        },
+        {
+            "source": "Italy",
+            "target": "Netherlands",
+            "value": 4643115036
+        },
+        {
+            "source": "Italy",
+            "target": "New Zealand",
+            "value": 178994334
+        },
+        {
+            "source": "Italy",
+            "target": "Norway",
+            "value": 497298426
+        },
+        {
+            "source": "Italy",
+            "target": "Poland",
+            "value": 4654217148
+        },
+        {
+            "source": "Italy",
+            "target": "Portugal",
+            "value": 1456866919
+        },
+        {
+            "source": "Italy",
+            "target": "Slovakia",
+            "value": 956990472
+        },
+        {
+            "source": "Italy",
+            "target": "Spain",
+            "value": 7666729449
+        },
+        {
+            "source": "Italy",
+            "target": "Sweden",
+            "value": 1591306873
+        },
+        {
+            "source": "Italy",
+            "target": "Switzerland",
+            "value": 7397499990
+        },
+        {
+            "source": "Italy",
+            "target": "Turkey",
+            "value": 3357302754
+        },
+        {
+            "source": "Italy",
+            "target": "England",
+            "value": 6782606049
+        },
+        {
+            "source": "Italy",
+            "target": "USA",
+            "value": 17075003754
+        },
+        {
+            "source": "Italy",
+            "target": "Chile",
+            "value": 311565118
+        },
+        {
+            "source": "Italy",
+            "target": "Estonia",
+            "value": 174488382
+        },
+        {
+            "source": "Italy",
+            "target": "Israel",
+            "value": 871494559
+        },
+        {
+            "source": "Italy",
+            "target": "Slovenia",
+            "value": 1715168369
+        },
+        {
+            "source": "Japan",
+            "target": "Australia",
+            "value": 4309852887
+        },
+        {
+            "source": "Japan",
+            "target": "Austria",
+            "value": 331823916
+        },
+        {
+            "source": "Japan",
+            "target": "Belgium",
+            "value": 1662570988
+        },
+        {
+            "source": "Japan",
+            "target": "Canada",
+            "value": 2056506613
+        },
+        {
+            "source": "Japan",
+            "target": "Czech Republic",
+            "value": 586592370
+        },
+        {
+            "source": "Japan",
+            "target": "Denmark",
+            "value": 140059478
+        },
+        {
+            "source": "Japan",
+            "target": "Finland",
+            "value": 116340995
+        },
+        {
+            "source": "Japan",
+            "target": "France",
+            "value": 1527011598
+        },
+        {
+            "source": "Japan",
+            "target": "Germany",
+            "value": 5001793156
+        },
+        {
+            "source": "Japan",
+            "target": "Greece",
+            "value": 76529650
+        },
+        {
+            "source": "Japan",
+            "target": "Hungary",
+            "value": 325312666
+        },
+        {
+            "source": "Japan",
+            "target": "Iceland",
+            "value": 12971581
+        },
+        {
+            "source": "Japan",
+            "target": "Ireland",
+            "value": 461407876
+        },
+        {
+            "source": "Japan",
+            "target": "Italy",
+            "value": 1219225251
+        },
+        {
+            "source": "Japan",
+            "target": "Luxembourg",
+            "value": 162516938
+        },
+        {
+            "source": "Japan",
+            "target": "Mexico",
+            "value": 2724309636
+        },
+        {
+            "source": "Japan",
+            "target": "Netherlands",
+            "value": 2945600587
+        },
+        {
+            "source": "Japan",
+            "target": "New Zealand",
+            "value": 725354626
+        },
+        {
+            "source": "Japan",
+            "target": "Norway",
+            "value": 209158857
+        },
+        {
+            "source": "Japan",
+            "target": "Poland",
+            "value": 1045121810
+        },
+        {
+            "source": "Japan",
+            "target": "Portugal",
+            "value": 124878739
+        },
+        {
+            "source": "Japan",
+            "target": "Slovakia",
+            "value": 38990964
+        },
+        {
+            "source": "Japan",
+            "target": "Spain",
+            "value": 694866297
+        },
+        {
+            "source": "Japan",
+            "target": "Sweden",
+            "value": 378168533
+        },
+        {
+            "source": "Japan",
+            "target": "Switzerland",
+            "value": 876123542
+        },
+        {
+            "source": "Japan",
+            "target": "Turkey",
+            "value": 683026309
+        },
+        {
+            "source": "Japan",
+            "target": "England",
+            "value": 2669133200
+        },
+        {
+            "source": "Japan",
+            "target": "USA",
+            "value": 34838930996
+        },
+        {
+            "source": "Japan",
+            "target": "Chile",
+            "value": 497524345
+        },
+        {
+            "source": "Japan",
+            "target": "Estonia",
+            "value": 56806532
+        },
+        {
+            "source": "Japan",
+            "target": "Israel",
+            "value": 330262681
+        },
+        {
+            "source": "Japan",
+            "target": "Slovenia",
+            "value": 44187531
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Australia",
+            "value": 7139521
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Austria",
+            "value": 94423339
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Belgium",
+            "value": 486095058
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Canada",
+            "value": 27261473
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Czech Republic",
+            "value": 51225771
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Denmark",
+            "value": 39122301
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Finland",
+            "value": 23507170
+        },
+        {
+            "source": "Luxembourg",
+            "target": "France",
+            "value": 589253657
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Germany",
+            "value": 1047292287
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Greece",
+            "value": 8732030
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Hungary",
+            "value": 22424699
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Iceland",
+            "value": 622291
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Ireland",
+            "value": 15939439
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Italy",
+            "value": 164837899
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Japan",
+            "value": 24933736
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Mexico",
+            "value": 31664510
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Netherlands",
+            "value": 253582994
+        },
+        {
+            "source": "Luxembourg",
+            "target": "New Zealand",
+            "value": 957282
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Norway",
+            "value": 20199327
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Poland",
+            "value": 103319224
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Portugal",
+            "value": 21451738
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Slovakia",
+            "value": 16882117
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Spain",
+            "value": 100428970
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Sweden",
+            "value": 43948084
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Switzerland",
+            "value": 50893028
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Turkey",
+            "value": 56978669
+        },
+        {
+            "source": "Luxembourg",
+            "target": "England",
+            "value": 93014203
+        },
+        {
+            "source": "Luxembourg",
+            "target": "USA",
+            "value": 114284666
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Chile",
+            "value": 2684056
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Estonia",
+            "value": 6395759
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Israel",
+            "value": 5674414
+        },
+        {
+            "source": "Luxembourg",
+            "target": "Slovenia",
+            "value": 10624895
+        },
+        {
+            "source": "Mexico",
+            "target": "Australia",
+            "value": 300188197
+        },
+        {
+            "source": "Mexico",
+            "target": "Austria",
+            "value": 44912413
+        },
+        {
+            "source": "Mexico",
+            "target": "Belgium",
+            "value": 323511448
+        },
+        {
+            "source": "Mexico",
+            "target": "Canada",
+            "value": 3892233202
+        },
+        {
+            "source": "Mexico",
+            "target": "Czech Republic",
+            "value": 79060522
+        },
+        {
+            "source": "Mexico",
+            "target": "Denmark",
+            "value": 31334470
+        },
+        {
+            "source": "Mexico",
+            "target": "Finland",
+            "value": 15282491
+        },
+        {
+            "source": "Mexico",
+            "target": "France",
+            "value": 271101978
+        },
+        {
+            "source": "Mexico",
+            "target": "Germany",
+            "value": 2246798095
+        },
+        {
+            "source": "Mexico",
+            "target": "Greece",
+            "value": 10784278
+        },
+        {
+            "source": "Mexico",
+            "target": "Hungary",
+            "value": 72150638
+        },
+        {
+            "source": "Mexico",
+            "target": "Ireland",
+            "value": 80354911
+        },
+        {
+            "source": "Mexico",
+            "target": "Italy",
+            "value": 187774208
+        },
+        {
+            "source": "Mexico",
+            "target": "Japan",
+            "value": 998253649
+        },
+        {
+            "source": "Mexico",
+            "target": "Luxembourg",
+            "value": 371737
+        },
+        {
+            "source": "Mexico",
+            "target": "Netherlands",
+            "value": 527521449
+        },
+        {
+            "source": "Mexico",
+            "target": "New Zealand",
+            "value": 38260082
+        },
+        {
+            "source": "Mexico",
+            "target": "Norway",
+            "value": 12533812
+        },
+        {
+            "source": "Mexico",
+            "target": "Poland",
+            "value": 108229782
+        },
+        {
+            "source": "Mexico",
+            "target": "Portugal",
+            "value": 6657874
+        },
+        {
+            "source": "Mexico",
+            "target": "Slovakia",
+            "value": 12177037
+        },
+        {
+            "source": "Mexico",
+            "target": "Spain",
+            "value": 399654292
+        },
+        {
+            "source": "Mexico",
+            "target": "Sweden",
+            "value": 16170475
+        },
+        {
+            "source": "Mexico",
+            "target": "Switzerland",
+            "value": 345654499
+        },
+        {
+            "source": "Mexico",
+            "target": "Turkey",
+            "value": 48320380
+        },
+        {
+            "source": "Mexico",
+            "target": "England",
+            "value": 710187757
+        },
+        {
+            "source": "Mexico",
+            "target": "USA",
+            "value": 117405086172
+        },
+        {
+            "source": "Mexico",
+            "target": "Chile",
+            "value": 407147792
+        },
+        {
+            "source": "Mexico",
+            "target": "Estonia",
+            "value": 560927
+        },
+        {
+            "source": "Mexico",
+            "target": "Israel",
+            "value": 45888712
+        },
+        {
+            "source": "Mexico",
+            "target": "Slovenia",
+            "value": 736621
+        },
+        {
+            "source": "Netherlands",
+            "target": "Australia",
+            "value": 856544959
+        },
+        {
+            "source": "Netherlands",
+            "target": "Austria",
+            "value": 2124155968
+        },
+        {
+            "source": "Netherlands",
+            "target": "Belgium",
+            "value": 20235722419
+        },
+        {
+            "source": "Netherlands",
+            "target": "Canada",
+            "value": 1386818712
+        },
+        {
+            "source": "Netherlands",
+            "target": "Czech Republic",
+            "value": 2216087149
+        },
+        {
+            "source": "Netherlands",
+            "target": "Denmark",
+            "value": 2338015063
+        },
+        {
+            "source": "Netherlands",
+            "target": "Finland",
+            "value": 1450545154
+        },
+        {
+            "source": "Netherlands",
+            "target": "France",
+            "value": 15268252766
+        },
+        {
+            "source": "Netherlands",
+            "target": "Germany",
+            "value": 47627760468
+        },
+        {
+            "source": "Netherlands",
+            "target": "Greece",
+            "value": 841447770
+        },
+        {
+            "source": "Netherlands",
+            "target": "Hungary",
+            "value": 1231693939
+        },
+        {
+            "source": "Netherlands",
+            "target": "Iceland",
+            "value": 305704628
+        },
+        {
+            "source": "Netherlands",
+            "target": "Ireland",
+            "value": 1868486982
+        },
+        {
+            "source": "Netherlands",
+            "target": "Italy",
+            "value": 7755481386
+        },
+        {
+            "source": "Netherlands",
+            "target": "Japan",
+            "value": 1451458935
+        },
+        {
+            "source": "Netherlands",
+            "target": "Luxembourg",
+            "value": 521819036
+        },
+        {
+            "source": "Netherlands",
+            "target": "Mexico",
+            "value": 957710257
+        },
+        {
+            "source": "Netherlands",
+            "target": "New Zealand",
+            "value": 191894574
+        },
+        {
+            "source": "Netherlands",
+            "target": "Norway",
+            "value": 1541494534
+        },
+        {
+            "source": "Netherlands",
+            "target": "Poland",
+            "value": 4887199274
+        },
+        {
+            "source": "Netherlands",
+            "target": "Portugal",
+            "value": 1179281621
+        },
+        {
+            "source": "Netherlands",
+            "target": "Slovakia",
+            "value": 502011355
+        },
+        {
+            "source": "Netherlands",
+            "target": "Spain",
+            "value": 5444534051
+        },
+        {
+            "source": "Netherlands",
+            "target": "Sweden",
+            "value": 3622118165
+        },
+        {
+            "source": "Netherlands",
+            "target": "Switzerland",
+            "value": 2114320411
+        },
+        {
+            "source": "Netherlands",
+            "target": "Turkey",
+            "value": 1927261864
+        },
+        {
+            "source": "Netherlands",
+            "target": "England",
+            "value": 11497833338
+        },
+        {
+            "source": "Netherlands",
+            "target": "USA",
+            "value": 8819117101
+        },
+        {
+            "source": "Netherlands",
+            "target": "Chile",
+            "value": 182038689
+        },
+        {
+            "source": "Netherlands",
+            "target": "Estonia",
+            "value": 240477612
+        },
+        {
+            "source": "Netherlands",
+            "target": "Israel",
+            "value": 704310454
+        },
+        {
+            "source": "Netherlands",
+            "target": "Slovenia",
+            "value": 317666052
+        },
+        {
+            "source": "New Zealand",
+            "target": "Australia",
+            "value": 1446182973
+        },
+        {
+            "source": "New Zealand",
+            "target": "Austria",
+            "value": 5413060
+        },
+        {
+            "source": "New Zealand",
+            "target": "Belgium",
+            "value": 39237228
+        },
+        {
+            "source": "New Zealand",
+            "target": "Canada",
+            "value": 138763181
+        },
+        {
+            "source": "New Zealand",
+            "target": "Czech Republic",
+            "value": 6156700
+        },
+        {
+            "source": "New Zealand",
+            "target": "Denmark",
+            "value": 38802351
+        },
+        {
+            "source": "New Zealand",
+            "target": "Finland",
+            "value": 2286386
+        },
+        {
+            "source": "New Zealand",
+            "target": "France",
+            "value": 74561002
+        },
+        {
+            "source": "New Zealand",
+            "target": "Germany",
+            "value": 138610757
+        },
+        {
+            "source": "New Zealand",
+            "target": "Greece",
+            "value": 10028894
+        },
+        {
+            "source": "New Zealand",
+            "target": "Hungary",
+            "value": 2410558
+        },
+        {
+            "source": "New Zealand",
+            "target": "Iceland",
+            "value": 370606
+        },
+        {
+            "source": "New Zealand",
+            "target": "Ireland",
+            "value": 13644500
+        },
+        {
+            "source": "New Zealand",
+            "target": "Italy",
+            "value": 48114556
+        },
+        {
+            "source": "New Zealand",
+            "target": "Japan",
+            "value": 636793158
+        },
+        {
+            "source": "New Zealand",
+            "target": "Mexico",
+            "value": 85850251
+        },
+        {
+            "source": "New Zealand",
+            "target": "Netherlands",
+            "value": 176081505
+        },
+        {
+            "source": "New Zealand",
+            "target": "Norway",
+            "value": 6421816
+        },
+        {
+            "source": "New Zealand",
+            "target": "Poland",
+            "value": 17119541
+        },
+        {
+            "source": "New Zealand",
+            "target": "Portugal",
+            "value": 3943400
+        },
+        {
+            "source": "New Zealand",
+            "target": "Slovakia",
+            "value": 491194
+        },
+        {
+            "source": "New Zealand",
+            "target": "Spain",
+            "value": 21145039
+        },
+        {
+            "source": "New Zealand",
+            "target": "Sweden",
+            "value": 12856854
+        },
+        {
+            "source": "New Zealand",
+            "target": "Switzerland",
+            "value": 13986789
+        },
+        {
+            "source": "New Zealand",
+            "target": "Turkey",
+            "value": 8315197
+        },
+        {
+            "source": "New Zealand",
+            "target": "England",
+            "value": 208602100
+        },
+        {
+            "source": "New Zealand",
+            "target": "USA",
+            "value": 1213660360
+        },
+        {
+            "source": "New Zealand",
+            "target": "Chile",
+            "value": 40177694
+        },
+        {
+            "source": "New Zealand",
+            "target": "Estonia",
+            "value": 985296
+        },
+        {
+            "source": "New Zealand",
+            "target": "Israel",
+            "value": 4185394
+        },
+        {
+            "source": "New Zealand",
+            "target": "Slovenia",
+            "value": 1181333
+        },
+        {
+            "source": "Norway",
+            "target": "Australia",
+            "value": 81551264
+        },
+        {
+            "source": "Norway",
+            "target": "Austria",
+            "value": 119330482
+        },
+        {
+            "source": "Norway",
+            "target": "Belgium",
+            "value": 6900401561
+        },
+        {
+            "source": "Norway",
+            "target": "Canada",
+            "value": 191937096
+        },
+        {
+            "source": "Norway",
+            "target": "Czech Republic",
+            "value": 73808919
+        },
+        {
+            "source": "Norway",
+            "target": "Denmark",
+            "value": 1620922289
+        },
+        {
+            "source": "Norway",
+            "target": "Finland",
+            "value": 1528421903
+        },
+        {
+            "source": "Norway",
+            "target": "France",
+            "value": 9289291681
+        },
+        {
+            "source": "Norway",
+            "target": "Germany",
+            "value": 26399664457
+        },
+        {
+            "source": "Norway",
+            "target": "Greece",
+            "value": 43668248
+        },
+        {
+            "source": "Norway",
+            "target": "Hungary",
+            "value": 32522803
+        },
+        {
+            "source": "Norway",
+            "target": "Iceland",
+            "value": 350436100
+        },
+        {
+            "source": "Norway",
+            "target": "Ireland",
+            "value": 151369896
+        },
+        {
+            "source": "Norway",
+            "target": "Italy",
+            "value": 698664103
+        },
+        {
+            "source": "Norway",
+            "target": "Japan",
+            "value": 222315752
+        },
+        {
+            "source": "Norway",
+            "target": "Luxembourg",
+            "value": 8543418
+        },
+        {
+            "source": "Norway",
+            "target": "Mexico",
+            "value": 37468507
+        },
+        {
+            "source": "Norway",
+            "target": "Netherlands",
+            "value": 4501895872
+        },
+        {
+            "source": "Norway",
+            "target": "New Zealand",
+            "value": 11234319
+        },
+        {
+            "source": "Norway",
+            "target": "Poland",
+            "value": 1892554931
+        },
+        {
+            "source": "Norway",
+            "target": "Portugal",
+            "value": 137383321
+        },
+        {
+            "source": "Norway",
+            "target": "Slovakia",
+            "value": 28788892
+        },
+        {
+            "source": "Norway",
+            "target": "Spain",
+            "value": 526585438
+        },
+        {
+            "source": "Norway",
+            "target": "Sweden",
+            "value": 3264300989
+        },
+        {
+            "source": "Norway",
+            "target": "Switzerland",
+            "value": 102886305
+        },
+        {
+            "source": "Norway",
+            "target": "Turkey",
+            "value": 340287975
+        },
+        {
+            "source": "Norway",
+            "target": "England",
+            "value": 17005579317
+        },
+        {
+            "source": "Norway",
+            "target": "USA",
+            "value": 1434543035
+        },
+        {
+            "source": "Norway",
+            "target": "Chile",
+            "value": 39551957
+        },
+        {
+            "source": "Norway",
+            "target": "Estonia",
+            "value": 61619131
+        },
+        {
+            "source": "Norway",
+            "target": "Israel",
+            "value": 71723831
+        },
+        {
+            "source": "Norway",
+            "target": "Slovenia",
+            "value": 11129875
+        },
+        {
+            "source": "Poland",
+            "target": "Australia",
+            "value": 230252722
+        },
+        {
+            "source": "Poland",
+            "target": "Austria",
+            "value": 1933330056
+        },
+        {
+            "source": "Poland",
+            "target": "Belgium",
+            "value": 1992855497
+        },
+        {
+            "source": "Poland",
+            "target": "Canada",
+            "value": 366511794
+        },
+        {
+            "source": "Poland",
+            "target": "Czech Republic",
+            "value": 5364845390
+        },
+        {
+            "source": "Poland",
+            "target": "Denmark",
+            "value": 1379672442
+        },
+        {
+            "source": "Poland",
+            "target": "Finland",
+            "value": 746778556
+        },
+        {
+            "source": "Poland",
+            "target": "France",
+            "value": 4518592929
+        },
+        {
+            "source": "Poland",
+            "target": "Germany",
+            "value": 23036955456
+        },
+        {
+            "source": "Poland",
+            "target": "Greece",
+            "value": 340081297
+        },
+        {
+            "source": "Poland",
+            "target": "Hungary",
+            "value": 2125545624
+        },
+        {
+            "source": "Poland",
+            "target": "Iceland",
+            "value": 38950474
+        },
+        {
+            "source": "Poland",
+            "target": "Ireland",
+            "value": 356067517
+        },
+        {
+            "source": "Poland",
+            "target": "Italy",
+            "value": 3615894795
+        },
+        {
+            "source": "Poland",
+            "target": "Japan",
+            "value": 207276490
+        },
+        {
+            "source": "Poland",
+            "target": "Luxembourg",
+            "value": 152268540
+        },
+        {
+            "source": "Poland",
+            "target": "Mexico",
+            "value": 574564848
+        },
+        {
+            "source": "Poland",
+            "target": "Netherlands",
+            "value": 3904755623
+        },
+        {
+            "source": "Poland",
+            "target": "New Zealand",
+            "value": 40735225
+        },
+        {
+            "source": "Poland",
+            "target": "Norway",
+            "value": 901087002
+        },
+        {
+            "source": "Poland",
+            "target": "Portugal",
+            "value": 445181541
+        },
+        {
+            "source": "Poland",
+            "target": "Slovakia",
+            "value": 2309028294
+        },
+        {
+            "source": "Poland",
+            "target": "Spain",
+            "value": 2049825467
+        },
+        {
+            "source": "Poland",
+            "target": "Sweden",
+            "value": 2160128141
+        },
+        {
+            "source": "Poland",
+            "target": "Switzerland",
+            "value": 938597256
+        },
+        {
+            "source": "Poland",
+            "target": "Turkey",
+            "value": 832540104
+        },
+        {
+            "source": "Poland",
+            "target": "England",
+            "value": 4046260946
+        },
+        {
+            "source": "Poland",
+            "target": "USA",
+            "value": 2487680352
+        },
+        {
+            "source": "Poland",
+            "target": "Chile",
+            "value": 42824722
+        },
+        {
+            "source": "Poland",
+            "target": "Estonia",
+            "value": 455102389
+        },
+        {
+            "source": "Poland",
+            "target": "Israel",
+            "value": 245582618
+        },
+        {
+            "source": "Poland",
+            "target": "Slovenia",
+            "value": 393009957
+        },
+        {
+            "source": "Portugal",
+            "target": "Australia",
+            "value": 74797933
+        },
+        {
+            "source": "Portugal",
+            "target": "Austria",
+            "value": 104183876
+        },
+        {
+            "source": "Portugal",
+            "target": "Belgium",
+            "value": 477505476
+        },
+        {
+            "source": "Portugal",
+            "target": "Canada",
+            "value": 131593953
+        },
+        {
+            "source": "Portugal",
+            "target": "Czech Republic",
+            "value": 141364790
+        },
+        {
+            "source": "Portugal",
+            "target": "Denmark",
+            "value": 125567036
+        },
+        {
+            "source": "Portugal",
+            "target": "Finland",
+            "value": 132769394
+        },
+        {
+            "source": "Portugal",
+            "target": "France",
+            "value": 2322147115
+        },
+        {
+            "source": "Portugal",
+            "target": "Germany",
+            "value": 2178475017
+        },
+        {
+            "source": "Portugal",
+            "target": "Greece",
+            "value": 57242569
+        },
+        {
+            "source": "Portugal",
+            "target": "Hungary",
+            "value": 91361060
+        },
+        {
+            "source": "Portugal",
+            "target": "Iceland",
+            "value": 5022412
+        },
+        {
+            "source": "Portugal",
+            "target": "Ireland",
+            "value": 144230340
+        },
+        {
+            "source": "Portugal",
+            "target": "Italy",
+            "value": 805127427
+        },
+        {
+            "source": "Portugal",
+            "target": "Japan",
+            "value": 82119320
+        },
+        {
+            "source": "Portugal",
+            "target": "Luxembourg",
+            "value": 30803948
+        },
+        {
+            "source": "Portugal",
+            "target": "Mexico",
+            "value": 105520570
+        },
+        {
+            "source": "Portugal",
+            "target": "Netherlands",
+            "value": 811651987
+        },
+        {
+            "source": "Portugal",
+            "target": "New Zealand",
+            "value": 20711861
+        },
+        {
+            "source": "Portugal",
+            "target": "Norway",
+            "value": 75736811
+        },
+        {
+            "source": "Portugal",
+            "target": "Poland",
+            "value": 249728955
+        },
+        {
+            "source": "Portugal",
+            "target": "Slovakia",
+            "value": 128543329
+        },
+        {
+            "source": "Portugal",
+            "target": "Spain",
+            "value": 5168794459
+        },
+        {
+            "source": "Portugal",
+            "target": "Sweden",
+            "value": 205313746
+        },
+        {
+            "source": "Portugal",
+            "target": "Switzerland",
+            "value": 191099163
+        },
+        {
+            "source": "Portugal",
+            "target": "Turkey",
+            "value": 234756580
+        },
+        {
+            "source": "Portugal",
+            "target": "England",
+            "value": 1038780880
+        },
+        {
+            "source": "Portugal",
+            "target": "USA",
+            "value": 1245385311
+        },
+        {
+            "source": "Portugal",
+            "target": "Chile",
+            "value": 26055710
+        },
+        {
+            "source": "Portugal",
+            "target": "Estonia",
+            "value": 16744176
+        },
+        {
+            "source": "Portugal",
+            "target": "Israel",
+            "value": 119947229
+        },
+        {
+            "source": "Portugal",
+            "target": "Slovenia",
+            "value": 18865607
+        },
+        {
+            "source": "Slovakia",
+            "target": "Australia",
+            "value": 99781968
+        },
+        {
+            "source": "Slovakia",
+            "target": "Austria",
+            "value": 1417065121
+        },
+        {
+            "source": "Slovakia",
+            "target": "Belgium",
+            "value": 323368233
+        },
+        {
+            "source": "Slovakia",
+            "target": "Canada",
+            "value": 87470586
+        },
+        {
+            "source": "Slovakia",
+            "target": "Czech Republic",
+            "value": 2961145741
+        },
+        {
+            "source": "Slovakia",
+            "target": "Denmark",
+            "value": 149358851
+        },
+        {
+            "source": "Slovakia",
+            "target": "Finland",
+            "value": 87124869
+        },
+        {
+            "source": "Slovakia",
+            "target": "France",
+            "value": 1472064763
+        },
+        {
+            "source": "Slovakia",
+            "target": "Germany",
+            "value": 5189596071
+        },
+        {
+            "source": "Slovakia",
+            "target": "Greece",
+            "value": 55349361
+        },
+        {
+            "source": "Slovakia",
+            "target": "Hungary",
+            "value": 2462438123
+        },
+        {
+            "source": "Slovakia",
+            "target": "Iceland",
+            "value": 10612418
+        },
+        {
+            "source": "Slovakia",
+            "target": "Ireland",
+            "value": 35628591
+        },
+        {
+            "source": "Slovakia",
+            "target": "Italy",
+            "value": 1137700404
+        },
+        {
+            "source": "Slovakia",
+            "target": "Japan",
+            "value": 64818757
+        },
+        {
+            "source": "Slovakia",
+            "target": "Luxembourg",
+            "value": 18121021
+        },
+        {
+            "source": "Slovakia",
+            "target": "Mexico",
+            "value": 58456598
+        },
+        {
+            "source": "Slovakia",
+            "target": "Netherlands",
+            "value": 490227120
+        },
+        {
+            "source": "Slovakia",
+            "target": "New Zealand",
+            "value": 21466245
+        },
+        {
+            "source": "Slovakia",
+            "target": "Norway",
+            "value": 65591672
+        },
+        {
+            "source": "Slovakia",
+            "target": "Poland",
+            "value": 1928831135
+        },
+        {
+            "source": "Slovakia",
+            "target": "Portugal",
+            "value": 74810439
+        },
+        {
+            "source": "Slovakia",
+            "target": "Spain",
+            "value": 532488674
+        },
+        {
+            "source": "Slovakia",
+            "target": "Sweden",
+            "value": 297755524
+        },
+        {
+            "source": "Slovakia",
+            "target": "Switzerland",
+            "value": 339140649
+        },
+        {
+            "source": "Slovakia",
+            "target": "Turkey",
+            "value": 227724295
+        },
+        {
+            "source": "Slovakia",
+            "target": "England",
+            "value": 965622795
+        },
+        {
+            "source": "Slovakia",
+            "target": "USA",
+            "value": 944428084
+        },
+        {
+            "source": "Slovakia",
+            "target": "Chile",
+            "value": 15015396
+        },
+        {
+            "source": "Slovakia",
+            "target": "Estonia",
+            "value": 49360292
+        },
+        {
+            "source": "Slovakia",
+            "target": "Israel",
+            "value": 70742714
+        },
+        {
+            "source": "Slovakia",
+            "target": "Slovenia",
+            "value": 198063701
+        },
+        {
+            "source": "Spain",
+            "target": "Australia",
+            "value": 445418079
+        },
+        {
+            "source": "Spain",
+            "target": "Austria",
+            "value": 581392011
+        },
+        {
+            "source": "Spain",
+            "target": "Belgium",
+            "value": 4609930281
+        },
+        {
+            "source": "Spain",
+            "target": "Canada",
+            "value": 600941360
+        },
+        {
+            "source": "Spain",
+            "target": "Czech Republic",
+            "value": 765112227
+        },
+        {
+            "source": "Spain",
+            "target": "Denmark",
+            "value": 519513757
+        },
+        {
+            "source": "Spain",
+            "target": "Finland",
+            "value": 336962973
+        },
+        {
+            "source": "Spain",
+            "target": "France",
+            "value": 14630182749
+        },
+        {
+            "source": "Spain",
+            "target": "Germany",
+            "value": 8602780875
+        },
+        {
+            "source": "Spain",
+            "target": "Greece",
+            "value": 755133982
+        },
+        {
+            "source": "Spain",
+            "target": "Hungary",
+            "value": 477974117
+        },
+        {
+            "source": "Spain",
+            "target": "Iceland",
+            "value": 21985359
+        },
+        {
+            "source": "Spain",
+            "target": "Ireland",
+            "value": 572477769
+        },
+        {
+            "source": "Spain",
+            "target": "Italy",
+            "value": 7621174922
+        },
+        {
+            "source": "Spain",
+            "target": "Japan",
+            "value": 736930403
+        },
+        {
+            "source": "Spain",
+            "target": "Luxembourg",
+            "value": 81202906
+        },
+        {
+            "source": "Spain",
+            "target": "Mexico",
+            "value": 1304921489
+        },
+        {
+            "source": "Spain",
+            "target": "Netherlands",
+            "value": 4095724260
+        },
+        {
+            "source": "Spain",
+            "target": "New Zealand",
+            "value": 74494937
+        },
+        {
+            "source": "Spain",
+            "target": "Norway",
+            "value": 343386719
+        },
+        {
+            "source": "Spain",
+            "target": "Poland",
+            "value": 1948351550
+        },
+        {
+            "source": "Spain",
+            "target": "Portugal",
+            "value": 8117765456
+        },
+        {
+            "source": "Spain",
+            "target": "Slovakia",
+            "value": 335907643
+        },
+        {
+            "source": "Spain",
+            "target": "Sweden",
+            "value": 777695089
+        },
+        {
+            "source": "Spain",
+            "target": "Switzerland",
+            "value": 1337627865
+        },
+        {
+            "source": "Spain",
+            "target": "Turkey",
+            "value": 1624605011
+        },
+        {
+            "source": "Spain",
+            "target": "England",
+            "value": 5050404391
+        },
+        {
+            "source": "Spain",
+            "target": "USA",
+            "value": 4849159520
+        },
+        {
+            "source": "Spain",
+            "target": "Chile",
+            "value": 444082649
+        },
+        {
+            "source": "Spain",
+            "target": "Estonia",
+            "value": 80176543
+        },
+        {
+            "source": "Spain",
+            "target": "Israel",
+            "value": 507647534
+        },
+        {
+            "source": "Spain",
+            "target": "Slovenia",
+            "value": 138389305
+        },
+        {
+            "source": "Sweden",
+            "target": "Australia",
+            "value": 378611109
+        },
+        {
+            "source": "Sweden",
+            "target": "Austria",
+            "value": 462281669
+        },
+        {
+            "source": "Sweden",
+            "target": "Belgium",
+            "value": 1565615823
+        },
+        {
+            "source": "Sweden",
+            "target": "Canada",
+            "value": 355200490
+        },
+        {
+            "source": "Sweden",
+            "target": "Czech Republic",
+            "value": 381625188
+        },
+        {
+            "source": "Sweden",
+            "target": "Denmark",
+            "value": 3563845733
+        },
+        {
+            "source": "Sweden",
+            "target": "Finland",
+            "value": 3524989930
+        },
+        {
+            "source": "Sweden",
+            "target": "France",
+            "value": 1731713752
+        },
+        {
+            "source": "Sweden",
+            "target": "Germany",
+            "value": 4610006352
+        },
+        {
+            "source": "Sweden",
+            "target": "Greece",
+            "value": 130808190
+        },
+        {
+            "source": "Sweden",
+            "target": "Hungary",
+            "value": 183908301
+        },
+        {
+            "source": "Sweden",
+            "target": "Iceland",
+            "value": 130656042
+        },
+        {
+            "source": "Sweden",
+            "target": "Ireland",
+            "value": 177677348
+        },
+        {
+            "source": "Sweden",
+            "target": "Italy",
+            "value": 1249685408
+        },
+        {
+            "source": "Sweden",
+            "target": "Japan",
+            "value": 590149684
+        },
+        {
+            "source": "Sweden",
+            "target": "Luxembourg",
+            "value": 44337583
+        },
+        {
+            "source": "Sweden",
+            "target": "Mexico",
+            "value": 197741964
+        },
+        {
+            "source": "Sweden",
+            "target": "Netherlands",
+            "value": 2009382630
+        },
+        {
+            "source": "Sweden",
+            "target": "New Zealand",
+            "value": 43190013
+        },
+        {
+            "source": "Sweden",
+            "target": "Norway",
+            "value": 5108129832
+        },
+        {
+            "source": "Sweden",
+            "target": "Poland",
+            "value": 1867126958
+        },
+        {
+            "source": "Sweden",
+            "target": "Portugal",
+            "value": 199057038
+        },
+        {
+            "source": "Sweden",
+            "target": "Slovakia",
+            "value": 128393608
+        },
+        {
+            "source": "Sweden",
+            "target": "Spain",
+            "value": 865740287
+        },
+        {
+            "source": "Sweden",
+            "target": "Switzerland",
+            "value": 353051688
+        },
+        {
+            "source": "Sweden",
+            "target": "Turkey",
+            "value": 513713955
+        },
+        {
+            "source": "Sweden",
+            "target": "England",
+            "value": 2399339807
+        },
+        {
+            "source": "Sweden",
+            "target": "USA",
+            "value": 3629031545
+        },
+        {
+            "source": "Sweden",
+            "target": "Chile",
+            "value": 117504926
+        },
+        {
+            "source": "Sweden",
+            "target": "Estonia",
+            "value": 413431488
+        },
+        {
+            "source": "Sweden",
+            "target": "Israel",
+            "value": 84522789
+        },
+        {
+            "source": "Sweden",
+            "target": "Slovenia",
+            "value": 54314604
+        },
+        {
+            "source": "Switzerland",
+            "target": "Australia",
+            "value": 657166214
+        },
+        {
+            "source": "Switzerland",
+            "target": "Austria",
+            "value": 2992460992
+        },
+        {
+            "source": "Switzerland",
+            "target": "Belgium",
+            "value": 1154077623
+        },
+        {
+            "source": "Switzerland",
+            "target": "Canada",
+            "value": 976761529
+        },
+        {
+            "source": "Switzerland",
+            "target": "Czech Republic",
+            "value": 533284793
+        },
+        {
+            "source": "Switzerland",
+            "target": "Denmark",
+            "value": 293548336
+        },
+        {
+            "source": "Switzerland",
+            "target": "Finland",
+            "value": 168928634
+        },
+        {
+            "source": "Switzerland",
+            "target": "France",
+            "value": 4514156016
+        },
+        {
+            "source": "Switzerland",
+            "target": "Germany",
+            "value": 12671736519
+        },
+        {
+            "source": "Switzerland",
+            "target": "Greece",
+            "value": 191565841
+        },
+        {
+            "source": "Switzerland",
+            "target": "Hungary",
+            "value": 286272721
+        },
+        {
+            "source": "Switzerland",
+            "target": "Iceland",
+            "value": 20060250
+        },
+        {
+            "source": "Switzerland",
+            "target": "Ireland",
+            "value": 381975268
+        },
+        {
+            "source": "Switzerland",
+            "target": "Italy",
+            "value": 6862641436
+        },
+        {
+            "source": "Switzerland",
+            "target": "Japan",
+            "value": 2561397669
+        },
+        {
+            "source": "Switzerland",
+            "target": "Luxembourg",
+            "value": 84589149
+        },
+        {
+            "source": "Switzerland",
+            "target": "Mexico",
+            "value": 400444666
+        },
+        {
+            "source": "Switzerland",
+            "target": "Netherlands",
+            "value": 1595458219
+        },
+        {
+            "source": "Switzerland",
+            "target": "New Zealand",
+            "value": 60618998
+        },
+        {
+            "source": "Switzerland",
+            "target": "Norway",
+            "value": 152692027
+        },
+        {
+            "source": "Switzerland",
+            "target": "Poland",
+            "value": 737140982
+        },
+        {
+            "source": "Switzerland",
+            "target": "Portugal",
+            "value": 260492375
+        },
+        {
+            "source": "Switzerland",
+            "target": "Slovakia",
+            "value": 190388602
+        },
+        {
+            "source": "Switzerland",
+            "target": "Spain",
+            "value": 1976648435
+        },
+        {
+            "source": "Switzerland",
+            "target": "Sweden",
+            "value": 412049531
+        },
+        {
+            "source": "Switzerland",
+            "target": "Turkey",
+            "value": 4743368616
+        },
+        {
+            "source": "Switzerland",
+            "target": "England",
+            "value": 2998385176
+        },
+        {
+            "source": "Switzerland",
+            "target": "USA",
+            "value": 14671462946
+        },
+        {
+            "source": "Switzerland",
+            "target": "Chile",
+            "value": 86359061
+        },
+        {
+            "source": "Switzerland",
+            "target": "Estonia",
+            "value": 59398323
+        },
+        {
+            "source": "Switzerland",
+            "target": "Israel",
+            "value": 293568374
+        },
+        {
+            "source": "Switzerland",
+            "target": "Slovenia",
+            "value": 3277812651
+        },
+        {
+            "source": "Turkey",
+            "target": "Australia",
+            "value": 235899438
+        },
+        {
+            "source": "Turkey",
+            "target": "Austria",
+            "value": 438475610
+        },
+        {
+            "source": "Turkey",
+            "target": "Belgium",
+            "value": 1158982515
+        },
+        {
+            "source": "Turkey",
+            "target": "Canada",
+            "value": 448182439
+        },
+        {
+            "source": "Turkey",
+            "target": "Czech Republic",
+            "value": 466153608
+        },
+        {
+            "source": "Turkey",
+            "target": "Denmark",
+            "value": 317813873
+        },
+        {
+            "source": "Turkey",
+            "target": "Finland",
+            "value": 177369798
+        },
+        {
+            "source": "Turkey",
+            "target": "France",
+            "value": 2147252941
+        },
+        {
+            "source": "Turkey",
+            "target": "Germany",
+            "value": 5152123751
+        },
+        {
+            "source": "Turkey",
+            "target": "Greece",
+            "value": 747153541
+        },
+        {
+            "source": "Turkey",
+            "target": "Hungary",
+            "value": 375083830
+        },
+        {
+            "source": "Turkey",
+            "target": "Iceland",
+            "value": 12167947
+        },
+        {
+            "source": "Turkey",
+            "target": "Ireland",
+            "value": 272810003
+        },
+        {
+            "source": "Turkey",
+            "target": "Italy",
+            "value": 2708314888
+        },
+        {
+            "source": "Turkey",
+            "target": "Japan",
+            "value": 155491415
+        },
+        {
+            "source": "Turkey",
+            "target": "Luxembourg",
+            "value": 33985100
+        },
+        {
+            "source": "Turkey",
+            "target": "Mexico",
+            "value": 310599893
+        },
+        {
+            "source": "Turkey",
+            "target": "Netherlands",
+            "value": 1920098735
+        },
+        {
+            "source": "Turkey",
+            "target": "New Zealand",
+            "value": 29897262
+        },
+        {
+            "source": "Turkey",
+            "target": "Norway",
+            "value": 116101198
+        },
+        {
+            "source": "Turkey",
+            "target": "Poland",
+            "value": 1258979948
+        },
+        {
+            "source": "Turkey",
+            "target": "Portugal",
+            "value": 335742602
+        },
+        {
+            "source": "Turkey",
+            "target": "Slovakia",
+            "value": 185711451
+        },
+        {
+            "source": "Turkey",
+            "target": "Spain",
+            "value": 2213531126
+        },
+        {
+            "source": "Turkey",
+            "target": "Sweden",
+            "value": 420702737
+        },
+        {
+            "source": "Turkey",
+            "target": "Switzerland",
+            "value": 336796908
+        },
+        {
+            "source": "Turkey",
+            "target": "England",
+            "value": 3312641227
+        },
+        {
+            "source": "Turkey",
+            "target": "USA",
+            "value": 4119687611
+        },
+        {
+            "source": "Turkey",
+            "target": "Chile",
+            "value": 121643327
+        },
+        {
+            "source": "Turkey",
+            "target": "Estonia",
+            "value": 40583226
+        },
+        {
+            "source": "Turkey",
+            "target": "Israel",
+            "value": 1647185552
+        },
+        {
+            "source": "Turkey",
+            "target": "Slovenia",
+            "value": 347815140
+        },
+        {
+            "source": "England",
+            "target": "Australia",
+            "value": 1329852482
+        },
+        {
+            "source": "England",
+            "target": "Austria",
+            "value": 785707517
+        },
+        {
+            "source": "England",
+            "target": "Belgium",
+            "value": 5597692232
+        },
+        {
+            "source": "England",
+            "target": "Canada",
+            "value": 1534674340
+        },
+        {
+            "source": "England",
+            "target": "Czech Republic",
+            "value": 643378334
+        },
+        {
+            "source": "England",
+            "target": "Denmark",
+            "value": 965252197
+        },
+        {
+            "source": "England",
+            "target": "Finland",
+            "value": 385759087
+        },
+        {
+            "source": "England",
+            "target": "France",
+            "value": 8001754900
+        },
+        {
+            "source": "England",
+            "target": "Germany",
+            "value": 10159545503
+        },
+        {
+            "source": "England",
+            "target": "Greece",
+            "value": 227745030
+        },
+        {
+            "source": "England",
+            "target": "Hungary",
+            "value": 348896230
+        },
+        {
+            "source": "England",
+            "target": "Iceland",
+            "value": 87619680
+        },
+        {
+            "source": "England",
+            "target": "Ireland",
+            "value": 8179648535
+        },
+        {
+            "source": "England",
+            "target": "Italy",
+            "value": 2644125409
+        },
+        {
+            "source": "England",
+            "target": "Japan",
+            "value": 1744693168
+        },
+        {
+            "source": "England",
+            "target": "Luxembourg",
+            "value": 211445950
+        },
+        {
+            "source": "England",
+            "target": "Mexico",
+            "value": 432317338
+        },
+        {
+            "source": "England",
+            "target": "Netherlands",
+            "value": 11523133505
+        },
+        {
+            "source": "England",
+            "target": "New Zealand",
+            "value": 251405610
+        },
+        {
+            "source": "England",
+            "target": "Norway",
+            "value": 1175500527
+        },
+        {
+            "source": "England",
+            "target": "Poland",
+            "value": 2088784496
+        },
+        {
+            "source": "England",
+            "target": "Portugal",
+            "value": 350845682
+        },
+        {
+            "source": "England",
+            "target": "Slovakia",
+            "value": 295947745
+        },
+        {
+            "source": "England",
+            "target": "Spain",
+            "value": 2856461012
+        },
+        {
+            "source": "England",
+            "target": "Sweden",
+            "value": 1867183556
+        },
+        {
+            "source": "England",
+            "target": "Switzerland",
+            "value": 10174345901
+        },
+        {
+            "source": "England",
+            "target": "Turkey",
+            "value": 2043449456
+        },
+        {
+            "source": "England",
+            "target": "USA",
+            "value": 16094260681
+        },
+        {
+            "source": "England",
+            "target": "Chile",
+            "value": 160002746
+        },
+        {
+            "source": "England",
+            "target": "Estonia",
+            "value": 83651425
+        },
+        {
+            "source": "England",
+            "target": "Israel",
+            "value": 450949884
+        },
+        {
+            "source": "England",
+            "target": "Slovenia",
+            "value": 76702097
+        },
+        {
+            "source": "USA",
+            "target": "Australia",
+            "value": 8002965519
+        },
+        {
+            "source": "USA",
+            "target": "Austria",
+            "value": 988940811
+        },
+        {
+            "source": "USA",
+            "target": "Belgium",
+            "value": 8362310485
+        },
+        {
+            "source": "USA",
+            "target": "Canada",
+            "value": 91091130130
+        },
+        {
+            "source": "USA",
+            "target": "Czech Republic",
+            "value": 991622530
+        },
+        {
+            "source": "USA",
+            "target": "Denmark",
+            "value": 987201539
+        },
+        {
+            "source": "USA",
+            "target": "Finland",
+            "value": 900784069
+        },
+        {
+            "source": "USA",
+            "target": "France",
+            "value": 11972448721
+        },
+        {
+            "source": "USA",
+            "target": "Germany",
+            "value": 18584635573
+        },
+        {
+            "source": "USA",
+            "target": "Greece",
+            "value": 531042785
+        },
+        {
+            "source": "USA",
+            "target": "Hungary",
+            "value": 654922425
+        },
+        {
+            "source": "USA",
+            "target": "Iceland",
+            "value": 200909059
+        },
+        {
+            "source": "USA",
+            "target": "Ireland",
+            "value": 3599335662
+        },
+        {
+            "source": "USA",
+            "target": "Italy",
+            "value": 6699439557
+        },
+        {
+            "source": "USA",
+            "target": "Japan",
+            "value": 20920263016
+        },
+        {
+            "source": "USA",
+            "target": "Luxembourg",
+            "value": 618234006
+        },
+        {
+            "source": "USA",
+            "target": "Mexico",
+            "value": 85241185490
+        },
+        {
+            "source": "USA",
+            "target": "Netherlands",
+            "value": 19374414822
+        },
+        {
+            "source": "USA",
+            "target": "New Zealand",
+            "value": 1040942575
+        },
+        {
+            "source": "USA",
+            "target": "Norway",
+            "value": 1024105633
+        },
+        {
+            "source": "USA",
+            "target": "Poland",
+            "value": 3287808260
+        },
+        {
+            "source": "USA",
+            "target": "Portugal",
+            "value": 651959694
+        },
+        {
+            "source": "USA",
+            "target": "Slovakia",
+            "value": 92795296
+        },
+        {
+            "source": "USA",
+            "target": "Spain",
+            "value": 6690708881
+        },
+        {
+            "source": "USA",
+            "target": "Sweden",
+            "value": 2071045838
+        },
+        {
+            "source": "USA",
+            "target": "Switzerland",
+            "value": 11922162107
+        },
+        {
+            "source": "USA",
+            "target": "Turkey",
+            "value": 3182277168
+        },
+        {
+            "source": "USA",
+            "target": "England",
+            "value": 19454535681
+        },
+        {
+            "source": "USA",
+            "target": "Chile",
+            "value": 6439314212
+        },
+        {
+            "source": "USA",
+            "target": "Estonia",
+            "value": 105494990
+        },
+        {
+            "source": "USA",
+            "target": "Israel",
+            "value": 3454555946
+        },
+        {
+            "source": "USA",
+            "target": "Slovenia",
+            "value": 122153317
+        },
+        {
+            "source": "Chile",
+            "target": "Australia",
+            "value": 62123900
+        },
+        {
+            "source": "Chile",
+            "target": "Austria",
+            "value": 5466552
+        },
+        {
+            "source": "Chile",
+            "target": "Belgium",
+            "value": 216095380
+        },
+        {
+            "source": "Chile",
+            "target": "Canada",
+            "value": 382338637
+        },
+        {
+            "source": "Chile",
+            "target": "Czech Republic",
+            "value": 7294304
+        },
+        {
+            "source": "Chile",
+            "target": "Denmark",
+            "value": 35111726
+        },
+        {
+            "source": "Chile",
+            "target": "Finland",
+            "value": 18177410
+        },
+        {
+            "source": "Chile",
+            "target": "France",
+            "value": 214596332
+        },
+        {
+            "source": "Chile",
+            "target": "Germany",
+            "value": 237703497
+        },
+        {
+            "source": "Chile",
+            "target": "Greece",
+            "value": 15698533
+        },
+        {
+            "source": "Chile",
+            "target": "Hungary",
+            "value": 913639
+        },
+        {
+            "source": "Chile",
+            "target": "Iceland",
+            "value": 687331
+        },
+        {
+            "source": "Chile",
+            "target": "Ireland",
+            "value": 19342517
+        },
+        {
+            "source": "Chile",
+            "target": "Italy",
+            "value": 172969958
+        },
+        {
+            "source": "Chile",
+            "target": "Japan",
+            "value": 1796420637
+        },
+        {
+            "source": "Chile",
+            "target": "Mexico",
+            "value": 479887759
+        },
+        {
+            "source": "Chile",
+            "target": "Netherlands",
+            "value": 371347578
+        },
+        {
+            "source": "Chile",
+            "target": "New Zealand",
+            "value": 24598670
+        },
+        {
+            "source": "Chile",
+            "target": "Norway",
+            "value": 13761215
+        },
+        {
+            "source": "Chile",
+            "target": "Poland",
+            "value": 28789441
+        },
+        {
+            "source": "Chile",
+            "target": "Portugal",
+            "value": 14286094
+        },
+        {
+            "source": "Chile",
+            "target": "Slovakia",
+            "value": 380948
+        },
+        {
+            "source": "Chile",
+            "target": "Spain",
+            "value": 320341338
+        },
+        {
+            "source": "Chile",
+            "target": "Sweden",
+            "value": 16204719
+        },
+        {
+            "source": "Chile",
+            "target": "Switzerland",
+            "value": 226747733
+        },
+        {
+            "source": "Chile",
+            "target": "Turkey",
+            "value": 80239712
+        },
+        {
+            "source": "Chile",
+            "target": "England",
+            "value": 134790676
+        },
+        {
+            "source": "Chile",
+            "target": "USA",
+            "value": 3099866747
+        },
+        {
+            "source": "Chile",
+            "target": "Estonia",
+            "value": 6458131
+        },
+        {
+            "source": "Chile",
+            "target": "Israel",
+            "value": 30521955
+        },
+        {
+            "source": "Chile",
+            "target": "Slovenia",
+            "value": 1683496
+        },
+        {
+            "source": "Estonia",
+            "target": "Australia",
+            "value": 21838168
+        },
+        {
+            "source": "Estonia",
+            "target": "Austria",
+            "value": 30059381
+        },
+        {
+            "source": "Estonia",
+            "target": "Belgium",
+            "value": 63984457
+        },
+        {
+            "source": "Estonia",
+            "target": "Canada",
+            "value": 14846715
+        },
+        {
+            "source": "Estonia",
+            "target": "Czech Republic",
+            "value": 38469327
+        },
+        {
+            "source": "Estonia",
+            "target": "Denmark",
+            "value": 145416868
+        },
+        {
+            "source": "Estonia",
+            "target": "Finland",
+            "value": 802452105
+        },
+        {
+            "source": "Estonia",
+            "target": "France",
+            "value": 91407311
+        },
+        {
+            "source": "Estonia",
+            "target": "Germany",
+            "value": 275153582
+        },
+        {
+            "source": "Estonia",
+            "target": "Greece",
+            "value": 63162823
+        },
+        {
+            "source": "Estonia",
+            "target": "Hungary",
+            "value": 14521745
+        },
+        {
+            "source": "Estonia",
+            "target": "Iceland",
+            "value": 12231805
+        },
+        {
+            "source": "Estonia",
+            "target": "Ireland",
+            "value": 5920844
+        },
+        {
+            "source": "Estonia",
+            "target": "Italy",
+            "value": 60490269
+        },
+        {
+            "source": "Estonia",
+            "target": "Japan",
+            "value": 34496022
+        },
+        {
+            "source": "Estonia",
+            "target": "Luxembourg",
+            "value": 687850
+        },
+        {
+            "source": "Estonia",
+            "target": "Mexico",
+            "value": 8584930
+        },
+        {
+            "source": "Estonia",
+            "target": "Netherlands",
+            "value": 140506958
+        },
+        {
+            "source": "Estonia",
+            "target": "New Zealand",
+            "value": 1803480
+        },
+        {
+            "source": "Estonia",
+            "target": "Norway",
+            "value": 210714570
+        },
+        {
+            "source": "Estonia",
+            "target": "Poland",
+            "value": 133869467
+        },
+        {
+            "source": "Estonia",
+            "target": "Portugal",
+            "value": 8332560
+        },
+        {
+            "source": "Estonia",
+            "target": "Slovakia",
+            "value": 10290388
+        },
+        {
+            "source": "Estonia",
+            "target": "Spain",
+            "value": 35439082
+        },
+        {
+            "source": "Estonia",
+            "target": "Sweden",
+            "value": 463298655
+        },
+        {
+            "source": "Estonia",
+            "target": "Switzerland",
+            "value": 67701326
+        },
+        {
+            "source": "Estonia",
+            "target": "Turkey",
+            "value": 52699885
+        },
+        {
+            "source": "Estonia",
+            "target": "England",
+            "value": 158474876
+        },
+        {
+            "source": "Estonia",
+            "target": "USA",
+            "value": 320127505
+        },
+        {
+            "source": "Estonia",
+            "target": "Chile",
+            "value": 2491305
+        },
+        {
+            "source": "Estonia",
+            "target": "Israel",
+            "value": 21437076
+        },
+        {
+            "source": "Estonia",
+            "target": "Slovenia",
+            "value": 5796744
+        },
+        {
+            "source": "Israel",
+            "target": "Australia",
+            "value": 156671000
+        },
+        {
+            "source": "Israel",
+            "target": "Austria",
+            "value": 24880000
+        },
+        {
+            "source": "Israel",
+            "target": "Belgium",
+            "value": 490198000
+        },
+        {
+            "source": "Israel",
+            "target": "Canada",
+            "value": 159354000
+        },
+        {
+            "source": "Israel",
+            "target": "Czech Republic",
+            "value": 50249000
+        },
+        {
+            "source": "Israel",
+            "target": "Denmark",
+            "value": 18940000
+        },
+        {
+            "source": "Israel",
+            "target": "Finland",
+            "value": 23289000
+        },
+        {
+            "source": "Israel",
+            "target": "France",
+            "value": 323844000
+        },
+        {
+            "source": "Israel",
+            "target": "Germany",
+            "value": 436821000
+        },
+        {
+            "source": "Israel",
+            "target": "Greece",
+            "value": 120255000
+        },
+        {
+            "source": "Israel",
+            "target": "Hungary",
+            "value": 50904000
+        },
+        {
+            "source": "Israel",
+            "target": "Iceland",
+            "value": 1008000
+        },
+        {
+            "source": "Israel",
+            "target": "Ireland",
+            "value": 833513000
+        },
+        {
+            "source": "Israel",
+            "target": "Italy",
+            "value": 399940000
+        },
+        {
+            "source": "Israel",
+            "target": "Japan",
+            "value": 211075000
+        },
+        {
+            "source": "Israel",
+            "target": "Luxembourg",
+            "value": 11948000
+        },
+        {
+            "source": "Israel",
+            "target": "Mexico",
+            "value": 123150000
+        },
+        {
+            "source": "Israel",
+            "target": "Netherlands",
+            "value": 590239000
+        },
+        {
+            "source": "Israel",
+            "target": "New Zealand",
+            "value": 17588000
+        },
+        {
+            "source": "Israel",
+            "target": "Norway",
+            "value": 25365000
+        },
+        {
+            "source": "Israel",
+            "target": "Poland",
+            "value": 70654000
+        },
+        {
+            "source": "Israel",
+            "target": "Portugal",
+            "value": 30039000
+        },
+        {
+            "source": "Israel",
+            "target": "Slovakia",
+            "value": 4985000
+        },
+        {
+            "source": "Israel",
+            "target": "Spain",
+            "value": 244193000
+        },
+        {
+            "source": "Israel",
+            "target": "Sweden",
+            "value": 32667000
+        },
+        {
+            "source": "Israel",
+            "target": "Switzerland",
+            "value": 160719000
+        },
+        {
+            "source": "Israel",
+            "target": "Turkey",
+            "value": 514613000
+        },
+        {
+            "source": "Israel",
+            "target": "England",
+            "value": 882400000
+        },
+        {
+            "source": "Israel",
+            "target": "USA",
+            "value": 4494912000
+        },
+        {
+            "source": "Israel",
+            "target": "Chile",
+            "value": 25819000
+        },
+        {
+            "source": "Israel",
+            "target": "Estonia",
+            "value": 2811000
+        },
+        {
+            "source": "Israel",
+            "target": "Slovenia",
+            "value": 103271000
+        },
+        {
+            "source": "Slovenia",
+            "target": "Australia",
+            "value": 31691349
+        },
+        {
+            "source": "Slovenia",
+            "target": "Austria",
+            "value": 955572451
+        },
+        {
+            "source": "Slovenia",
+            "target": "Belgium",
+            "value": 121147061
+        },
+        {
+            "source": "Slovenia",
+            "target": "Canada",
+            "value": 38928457
+        },
+        {
+            "source": "Slovenia",
+            "target": "Czech Republic",
+            "value": 262940738
+        },
+        {
+            "source": "Slovenia",
+            "target": "Denmark",
+            "value": 118765517
+        },
+        {
+            "source": "Slovenia",
+            "target": "Finland",
+            "value": 36568862
+        },
+        {
+            "source": "Slovenia",
+            "target": "France",
+            "value": 417839943
+        },
+        {
+            "source": "Slovenia",
+            "target": "Germany",
+            "value": 1890498300
+        },
+        {
+            "source": "Slovenia",
+            "target": "Greece",
+            "value": 39872598
+        },
+        {
+            "source": "Slovenia",
+            "target": "Hungary",
+            "value": 367164431
+        },
+        {
+            "source": "Slovenia",
+            "target": "Iceland",
+            "value": 2606999
+        },
+        {
+            "source": "Slovenia",
+            "target": "Ireland",
+            "value": 15907332
+        },
+        {
+            "source": "Slovenia",
+            "target": "Italy",
+            "value": 1441047850
+        },
+        {
+            "source": "Slovenia",
+            "target": "Japan",
+            "value": 35569497
+        },
+        {
+            "source": "Slovenia",
+            "target": "Luxembourg",
+            "value": 5361558
+        },
+        {
+            "source": "Slovenia",
+            "target": "Mexico",
+            "value": 29001286
+        },
+        {
+            "source": "Slovenia",
+            "target": "Netherlands",
+            "value": 191049361
+        },
+        {
+            "source": "Slovenia",
+            "target": "New Zealand",
+            "value": 5011548
+        },
+        {
+            "source": "Slovenia",
+            "target": "Norway",
+            "value": 23560794
+        },
+        {
+            "source": "Slovenia",
+            "target": "Poland",
+            "value": 312970034
+        },
+        {
+            "source": "Slovenia",
+            "target": "Portugal",
+            "value": 39674611
+        },
+        {
+            "source": "Slovenia",
+            "target": "Slovakia",
+            "value": 182321259
+        },
+        {
+            "source": "Slovenia",
+            "target": "Spain",
+            "value": 159823488
+        },
+        {
+            "source": "Slovenia",
+            "target": "Sweden",
+            "value": 101753103
+        },
+        {
+            "source": "Slovenia",
+            "target": "Switzerland",
+            "value": 3658010998
+        },
+        {
+            "source": "Slovenia",
+            "target": "Turkey",
+            "value": 114503785
+        },
+        {
+            "source": "Slovenia",
+            "target": "England",
+            "value": 183524633
+        },
+        {
+            "source": "Slovenia",
+            "target": "USA",
+            "value": 226556521
+        },
+        {
+            "source": "Slovenia",
+            "target": "Chile",
+            "value": 3044794
+        },
+        {
+            "source": "Slovenia",
+            "target": "Estonia",
+            "value": 17049776
+        },
+        {
+            "source": "Slovenia",
+            "target": "Israel",
+            "value": 24635447
+        }
+    ]
+}

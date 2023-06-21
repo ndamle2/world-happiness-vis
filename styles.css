@@ -1,0 +1,33 @@
+body {
+    background-color: #d0edf5;
+    margin-bottom: 100px;
+  }
+
+.center_plot {
+    margin: auto;
+    text-align: center;
+}
+
+.section {
+    text-align: center;
+    font-size: 30px;
+}
+
+.titles {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+#intro {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#intro p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 26px;
+}
